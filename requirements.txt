@@ -1,0 +1,9 @@
+langchain_core == 0.3.46
+langchain_community == 0.3.19
+langchain_openai == 0.3.9
+langgraph == 0.3.14
+langgraph-cli[inmem]
+langchain_xai==0.2.1
+langchain_anthropic==0.3.10
+langmem==0.0.16
+langchain_experimental==0.3.4

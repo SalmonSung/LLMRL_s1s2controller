@@ -7,14 +7,6 @@ from langchain_core.runnables import RunnableConfig
 from dataclasses import dataclass
 
 
-class Speed(Enum):
-    QUICK = "quick"
-    NORMAL = "normal"
-
-
-class SearchAPI(Enum):
-    TAVILY = "tavily"
-
 
 class PlannerProvider(Enum):
     OPENAI = "openai"
@@ -31,6 +23,8 @@ class WriterProvider(Enum):
 class FilterProvider(Enum):
     OPENAI = "openai"
 
+class PipelineMode(Enum):
+    S2 = "s2"
 
 @dataclass(kw_only=True)
 class Configuration:
@@ -44,7 +38,7 @@ class Configuration:
     writer_model: str = "claude-3-5-sonnet-latest"
     filter_provider: FilterProvider = FilterProvider.OPENAI
     filter_model: str = "gpt-4o-mini"
-    search_api: SearchAPI = SearchAPI.TAVILY
+    PipelineMode: PipelineMode = PipelineMode.S2
 
     @classmethod
     def from_runnable_config(

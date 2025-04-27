@@ -1,6 +1,5 @@
 from langchain.chat_models import init_chat_model
 from langchain_core.messages import HumanMessage, AIMessage
-from langchain_experimental.graph_transformers.llm import system_prompt
 from langgraph.graph import StateGraph, START, END
 from langgraph.prebuilt import create_react_agent
 from langchain_core.runnables import RunnableConfig
@@ -42,3 +41,11 @@ def grade_answer(state: S2State, config: RunnableConfig):
     system_prompt = grade_answer_prompt.format(default_solution=state["solution"])
     output = structured_llm.invoke([AIMessage(content=system_prompt), HumanMessage(content=state["answer"])])
     return {"pass_or_fail": output.pass_or_fail}
+
+s2_agent_builder = StateGraph(S2State, input=S2Input, output=S2Output, config_schema=Configuration)
+s2_agent_builder.add_node("s2_agent", s2_agent)
+s2_agent_builder.add_node("grade_answer", grade_answer)
+
+s2_agent_builder.add_edge(START, "s2_agent")
+s2_agent_builder.add_edge( "s2_agent", "grade_answer")
+s2_agent_builder.add_edge("grade_answer", END)

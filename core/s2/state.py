@@ -8,9 +8,7 @@ class S2Input(BaseModel):
 
 
 class S2Output(BaseModel):
-    task: str
     answer: str
-    solution: str
     pass_or_fail: str
 
 

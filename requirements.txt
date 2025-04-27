@@ -7,3 +7,4 @@ langchain_xai==0.2.1
 langchain_anthropic==0.3.10
 langmem==0.0.16
 langchain_experimental==0.3.4
+duckduckgo-search==8.0.1

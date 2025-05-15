@@ -10,10 +10,12 @@ terminal: ```langgraph dev```
 This will runn a server locally and automatically pop up a web.  
 **2. How to use this in my project?**  
 ```Python
-def s2_agent_wrapper(task, solution):
+from wrapper import nlp_wrapper
+
+def nlp_wrapper(task: str, solution: str, pipelineMode: str = "s1"):
     return <some_dict>
 ```
-I would write a wrapper like aboved. Please aligned your project with the return format.(This is discussable)  
+Rather than Langgraph Studio, you can call this method and collect the data more easily.  
 **3. What is the algorithm used to eliminate the difference between agent's output and actual solution?**  
 I discovered the database and realise the data types are too mess up. Eventually I designed a state as follows:  
 ```Python

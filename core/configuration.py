@@ -25,6 +25,7 @@ class FilterProvider(Enum):
 
 class PipelineMode(Enum):
     S2 = "s2"
+    S1 = "s1"
 
 @dataclass(kw_only=True)
 class Configuration:
@@ -38,7 +39,7 @@ class Configuration:
     writer_model: str = "claude-3-5-sonnet-latest"
     filter_provider: FilterProvider = FilterProvider.OPENAI
     filter_model: str = "gpt-4o-mini"
-    PipelineMode: PipelineMode = PipelineMode.S2
+    pipelineMode: PipelineMode = PipelineMode.S2
 
     @classmethod
     def from_runnable_config(

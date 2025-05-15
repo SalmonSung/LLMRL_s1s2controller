@@ -2,7 +2,6 @@
   "dependencies": ["."],
   "graphs": {
     "graph": "./core/main_graph.py:graph"
-
   },
   "env": ".env"
 }

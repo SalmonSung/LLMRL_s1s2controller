@@ -1,6 +1,7 @@
 from dotenv import load_dotenv
 from langgraph.checkpoint.memory import MemorySaver
 
+from core.configuration import PipelineMode
 from core.main_graph import builder
 import uuid
 
@@ -9,12 +10,18 @@ load_dotenv()
 memory = MemorySaver()
 graph = builder.compile(checkpointer=memory)
 
-thread = {"configurable": {"thread_id": str(uuid.uuid4()),
-                           "writer_provider": "openai",
-                           "writer_model": "gpt-4o",
-                           }}
+# thread = {"configurable": {"thread_id": str(uuid.uuid4()),
+#                            "writer_provider": "openai",
+#                            "writer_model": "gpt-4o",
+#                             "pipelineMode": "s1"
+#                            }}
 
-def nlp_wrapper(task: str, solution: str) -> dict:
+def nlp_wrapper(task: str, solution: str, pipelineMode: str = "s1") -> dict:
+    thread = {"configurable": {"thread_id": str(uuid.uuid4()),
+                               "writer_provider": "openai",
+                               "writer_model": "gpt-4o",
+                                "pipelineMode": pipelineMode
+                               }}
     event = {"task": task, "solution": solution}
     s_lists = []
     step = 0
@@ -30,8 +37,10 @@ def nlp_wrapper(task: str, solution: str) -> dict:
     # print(s_lists[-1]["generate_arg_for_def_collect"])
     print(s_lists[-1])
     # print(s_lists[-1]["generate_arg_for_def_collect"]["tp"])
-
-    return s_lists[-1]["s2_agent"]
+    if pipelineMode == "s2":
+        return s_lists[-1]["s2_agent"]
+    else:
+        return s_lists[-1]["s1_agent"]
 
 if __name__ == "__main__":
     output = nlp_wrapper("A pizza and a toy together cost $13. The pizza costs $10 more than the toy. How much does the toy cost?", "1.5")

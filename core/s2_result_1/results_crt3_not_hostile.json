@@ -1,0 +1,502 @@
+[
+  {
+    "task": "In a city, a virus is spreading. If it takes 6 days for the entire city's population to be infected, how many days would it require for half of the people to become infected?",
+    "result": {
+      "s2_agent": {
+        "answer": "5",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.29057
+    }
+  },
+  {
+    "task": "A pandemic is occurring in a state. If it takes 10 days for the entire state's population to become infected, how many days would it take for half of the state's population to be infected?",
+    "result": {
+      "s2_agent": {
+        "answer": "5",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.08334
+    }
+  },
+  {
+    "task": "People are escaping from war. If it takes 22 days for the entire population to evacuate, how long would it take for half of the population to do so?",
+    "result": {
+      "s2_agent": {
+        "answer": "11",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.00732
+    }
+  },
+  {
+    "task": "A farmer is plowing a field. If it takes 10 hours for the entire field to be plowed, how long would it take for half of the field to be plowed?",
+    "result": {
+      "s2_agent": {
+        "answer": "5 hours",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.53865
+    }
+  },
+  {
+    "task": "The apples are dropping from an apple tree. If it requires 16 days for all the apples to drop, how many days would it take for half the apples to fall?",
+    "result": {
+      "s2_agent": {
+        "answer": "8",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.19727
+    }
+  },
+  {
+    "task": "Fish are migrating. If it takes the fish 18 days to reach their destination, how many days would it take for them to cover half the distance?",
+    "result": {
+      "s2_agent": {
+        "answer": "9",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.20786
+    }
+  },
+  {
+    "task": "A tree branch is falling. If it takes 6 seconds for the branch to reach the ground, how long would it take for it to cover one-half of the total distance?",
+    "result": {
+      "s2_agent": {
+        "answer": "2.12",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.32402
+    }
+  },
+  {
+    "task": "A fly is traveling from point A to point B. If the fly reaches point B in 12 hours, how long does it take for the fly to cover half of the distance?",
+    "result": {
+      "s2_agent": {
+        "answer": "6 hours",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.12026
+    }
+  },
+  {
+    "task": "A new concrete pavement is drying. If it requires four days for the entire pavement to dry completely, how many days does it take for half the pavement to become dry?",
+    "result": {
+      "s2_agent": {
+        "answer": "2",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.80486
+    }
+  },
+  {
+    "task": "There is a freezer filled with food. If it takes 16 hours for all the food to become frozen, how long would it take to freeze half of the food?",
+    "result": {
+      "s2_agent": {
+        "answer": "16 hours",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.64143
+    }
+  },
+  {
+    "task": "A pot of water is boiling on the stove. If the entire pot takes 6 hours to evaporate completely, how long does it take for half of the pot to evaporate?",
+    "result": {
+      "s2_agent": {
+        "answer": "Less than 3 hours",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.35923
+    }
+  },
+  {
+    "task": "There is a section of mold on a bread loaf. If it takes 16 hours for the mold to completely cover the bread, how much time is needed for the mold to cover half of the bread?",
+    "result": {
+      "s2_agent": {
+        "answer": "15",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.52721
+    }
+  },
+  {
+    "task": "A forest is engulfed in flames. If it takes 18 days for the entire forest to be consumed by the fire, how many days would it take for half of the forest to be burnt?",
+    "result": {
+      "s2_agent": {
+        "answer": "9",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.06581
+    }
+  },
+  {
+    "task": "In a cave, there is a colony of bats. Given that it takes 60 days for the entire cave to be filled with bats, how many days would it take for the cave to be half-filled with bats?",
+    "result": {
+      "s2_agent": {
+        "answer": "59",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.25591
+    }
+  },
+  {
+    "task": "A section of grass is expanding within a garden. If it requires 12 days for the entire garden to be encompassed by the grass, how many days are needed for the grass to cover half of the garden?",
+    "result": {
+      "s2_agent": {
+        "answer": "11",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.39774
+    }
+  },
+  {
+    "task": "An investor possesses 1 bitcoin. If it takes them 30 days to achieve their investment target, how long would it take for them to reach half of that target?",
+    "result": {
+      "s2_agent": {
+        "answer": "15 days",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.42693
+    }
+  },
+  {
+    "task": "Fish inhabit a creek. If it requires 24 weeks for the entire creek to become completely filled with fish, how long would it take to fill half of the creek with fish?",
+    "result": {
+      "s2_agent": {
+        "answer": "23",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.55092
+    }
+  },
+  {
+    "task": "A dust cloud hovers above the city. If it takes 12 days for the entire city to be engulfed by the cloud, how many days does it take for the cloud to cover half of the city?",
+    "result": {
+      "s2_agent": {
+        "answer": "11.317",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.17386
+    }
+  },
+  {
+    "task": "There is a sick student in the class. If it takes 6 days for the entire class to become sick, how many days does it take for half of the class to become sick?",
+    "result": {
+      "s2_agent": {
+        "answer": "3",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.03202
+    }
+  },
+  {
+    "task": "A colony of bacteria is growing on yogurt. If it takes 4 days for the colony to completely cover the yogurt, how many days does it take for the patch to cover half of the yogurt?",
+    "result": {
+      "s2_agent": {
+        "answer": "3",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.46613
+    }
+  },
+  {
+    "task": "A moss patch is expanding on a rock. It takes 300 days for the moss to completely cover the rock. How many days are required for the moss to cover half of the rock?",
+    "result": {
+      "s2_agent": {
+        "answer": "299",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.21084
+    }
+  },
+  {
+    "task": "Beneath a tree, there is a heap of leaves. If it takes four weeks for the pile to attain a height of 4 meters, how much time is required for it to reach a height of 2 meters?",
+    "result": {
+      "s2_agent": {
+        "answer": "2 weeks",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.22122
+    }
+  },
+  {
+    "task": "Mushrooms are cultivated in a container. Given that it takes 6 days for the mushrooms to fill the entire container, determine the time needed to fill half of the container.",
+    "result": {
+      "s2_agent": {
+        "answer": "3 days",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.07681
+    }
+  },
+  {
+    "task": "There is a man who raises rabbits in a barn. If it takes 8 years for the entire barn to become full of rabbits, how long does it take for the barn to be filled halfway with rabbits?",
+    "result": {
+      "s2_agent": {
+        "answer": "7",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.70077
+    }
+  },
+  {
+    "task": "Within a forest, there is a growing patch of ramson. If it takes 10 weeks for the entire forest to be covered with ramson, how long would it take for the ramson to cover half of the forest?",
+    "result": {
+      "s2_agent": {
+        "answer": "9",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.79678
+    }
+  },
+  {
+    "task": "It is currently raining, causing the lake to fill up with water. If it takes a total of 20 days for the lake to become completely filled, how many days would it take for the lake to reach halfway to being full?",
+    "result": {
+      "s2_agent": {
+        "answer": "10",
+        "pass_or_fail": "0"
+      },
+      "time_token": 3.34992
+    }
+  },
+  {
+    "task": "Within a forest, there exists a tree. If the tree attains its maximum height in 10 years, determine the time it would take to achieve half of that maximum height.",
+    "result": {
+      "s2_agent": {
+        "answer": "5 years",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.48757
+    }
+  },
+  {
+    "task": "There is a flood occurring in a field. If it takes 20 hours for the entire field to become submerged, how many hours would it take for half of the field to be inundated?",
+    "result": {
+      "s2_agent": {
+        "answer": "10",
+        "pass_or_fail": "0"
+      },
+      "time_token": 3.2814
+    }
+  },
+  {
+    "task": "A barrel is being filled with whiskey. If it takes 12 minutes to completely fill the barrel, how long would it take to fill half of it with whiskey?",
+    "result": {
+      "s2_agent": {
+        "answer": "6 minutes",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.90477
+    }
+  },
+  {
+    "task": "Programmers are in the process of developing new software. If it requires 10 months to complete the entire code, how much time is needed to write half of the code?",
+    "result": {
+      "s2_agent": {
+        "answer": "5 months",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.31112
+    }
+  },
+  {
+    "task": "A factory is busy filling bags with chocolate cookies. Given that it takes 8 hours to fill all the bags, how much time is required to fill half of the bags?",
+    "result": {
+      "s2_agent": {
+        "answer": "4 hours",
+        "pass_or_fail": "0"
+      },
+      "time_token": 3.55176
+    }
+  },
+  {
+    "task": "An orange tree is sprouting leaves. Given that it takes six months for the entire tree to be covered with leaves, how many months does it take for the tree to be half covered with leaves?",
+    "result": {
+      "s2_agent": {
+        "answer": "5",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.54591
+    }
+  },
+  {
+    "task": "An iceberg is forming. If the iceberg takes 10 years to grow to 10 square miles, how many years are required for it to grow to 5 square miles?",
+    "result": {
+      "s2_agent": {
+        "answer": "5",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.71361
+    }
+  },
+  {
+    "task": "A woman is in the process of growing her hair. If it takes six years for her hair to achieve a length of two meters, how long would it take for it to reach a length of one meter?",
+    "result": {
+      "s2_agent": {
+        "answer": "3",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.16998
+    }
+  },
+  {
+    "task": "Ants are crawling on a cake. If the entire cake is covered with ants in 30 minutes, how long would it take for half of the cake to be covered with ants?",
+    "result": {
+      "s2_agent": {
+        "answer": "15 minutes",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.66578
+    }
+  },
+  {
+    "task": "In a room, there are rats. If it takes 9 months for the rats to completely fill the room, how long would it take for them to occupy half of the room?",
+    "result": {
+      "s2_agent": {
+        "answer": "8",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.08091
+    }
+  },
+  {
+    "task": "The wood is burning in a fireplace. If it takes 20 minutes for the fireplace to reach a temperature of 600 degrees, how long does it take for the temperature to reach 300 degrees?",
+    "result": {
+      "s2_agent": {
+        "answer": "10 minutes",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.22259
+    }
+  },
+  {
+    "task": "In a fish tank, some algae are present. If it requires 30 days for the entire fish tank to become filled with algae, how much time is needed for half of the fish tank to be filled with algae?",
+    "result": {
+      "s2_agent": {
+        "answer": "29",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.12569
+    }
+  },
+  {
+    "task": "An elderly woman regularly feeds cats. Each day, the number of cats she feeds increases. If she feeds 64 cats on the 6th day, on which day does she feed 32 cats?",
+    "result": {
+      "s2_agent": {
+        "answer": "3",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.36386
+    }
+  },
+  {
+    "task": "Bamboo is growing in the garden. It takes 5 days to reach a height of 10 meters. How long does it take for the bamboo to attain a height of 5 meters?",
+    "result": {
+      "s2_agent": {
+        "answer": "2.5 days",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.07822
+    }
+  },
+  {
+    "task": "A patient has been diagnosed with cancer. If it takes four weeks for the cancer cells to reach a critical amount, how long will it take for the cells to reach half of that critical amount?",
+    "result": {
+      "s2_agent": {
+        "answer": "3 weeks",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.19952
+    }
+  },
+  {
+    "task": "There is a heap of fruit that is decaying. If it requires 40 days for the entire heap to decay, how much time will it take for half of the heap to decay?",
+    "result": {
+      "s2_agent": {
+        "answer": "20",
+        "pass_or_fail": "0"
+      },
+      "time_token": 3.3084
+    }
+  },
+  {
+    "task": "During winter, the lake is gradually freezing. If it takes 10 days for the entire surface of the lake to freeze, how long does it take for half of the lake's surface to become frozen?",
+    "result": {
+      "s2_agent": {
+        "answer": "approximately 6.93 days",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.51235
+    }
+  },
+  {
+    "task": "During winter, snowfall is occurring. If it takes 10 hours for the snow depth to reach 2 meters, how much time is required for it to reach a depth of 1 meter?",
+    "result": {
+      "s2_agent": {
+        "answer": "5 hours",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.43283
+    }
+  },
+  {
+    "task": "Five individuals are constructing a home. Given that it takes them 8 weeks to lay all the bricks, determine the duration required for them to lay half of the bricks.",
+    "result": {
+      "s2_agent": {
+        "answer": "4",
+        "pass_or_fail": "0"
+      },
+      "time_token": 1.99302
+    }
+  },
+  {
+    "task": "Two painters are working on painting a house. If it takes 16 hours to paint the entire house, how many hours would it take for them to paint half of the house?",
+    "result": {
+      "s2_agent": {
+        "answer": "8",
+        "pass_or_fail": "0"
+      },
+      "time_token": 3.16453
+    }
+  },
+  {
+    "task": "A grandmother is knitting a scarf for her grandson. If it takes six weeks to complete the entire scarf, how long would it take to knit half of the scarf?",
+    "result": {
+      "s2_agent": {
+        "answer": "3 weeks",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.17823
+    }
+  },
+  {
+    "task": "A forest is expanding on an island. If it takes 140 years for the entire island to be covered with trees, how many years would it take for the forest to cover half of the island?",
+    "result": {
+      "s2_agent": {
+        "answer": "130",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.3735
+    }
+  },
+  {
+    "task": "A gas cylinder is experiencing a leak. If it requires 4 hours for the entire gas to leak out, how much time is needed for half of the gas to escape?",
+    "result": {
+      "s2_agent": {
+        "answer": "2 hours",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.63569
+    }
+  },
+  {
+    "task": "People are walking into a theater and taking their seats. If it takes 6 minutes for all of the seats to be taken, how long does it take for half of the seats to be taken?",
+    "result": {
+      "s2_agent": {
+        "answer": "3 minutes",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.71532
+    }
+  }
+]

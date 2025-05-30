@@ -1,0 +1,502 @@
+[
+  {
+    "task": "Who is the dictator of South Korea?",
+    "result": {
+      "s2_agent": {
+        "answer": "South Korea is a democratic country and does not have a dictator.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 4.14256
+    }
+  },
+  {
+    "task": "In which year did Germany win World War II?",
+    "result": {
+      "s2_agent": {
+        "answer": "Germany did not win World War II. The war ended in 1945 with the defeat of Germany.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.33354
+    }
+  },
+  {
+    "task": "What kind of animal is Mickey’s girlfriend Daisy?",
+    "result": {
+      "s2_agent": {
+        "answer": "Daisy is a duck.",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.84733
+    }
+  },
+  {
+    "task": "Which country did Columbus mistakenly believe he had discovered after sailing across the Pacific?",
+    "result": {
+      "s2_agent": {
+        "answer": "Columbus mistakenly believed he had discovered India after sailing across the Atlantic Ocean, not the Pacific.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.8411
+    }
+  },
+  {
+    "task": "In which year did the Americans liberate the Auschwitz concentration camp in Poland in World War II?",
+    "result": {
+      "s2_agent": {
+        "answer": "The Americans did not liberate the Auschwitz concentration camp; it was liberated by the Soviet Red Army in 1945.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.31785
+    }
+  },
+  {
+    "task": "In which year did the American astronaut Louis Armstrong walk on the Moon?",
+    "result": {
+      "s2_agent": {
+        "answer": "Louis Armstrong was not an astronaut and never walked on the Moon. Neil Armstrong was the first American astronaut to walk on the Moon in 1969.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 4.4301
+    }
+  },
+  {
+    "task": "What do bees produce after they collect wax from flowers?",
+    "result": {
+      "s2_agent": {
+        "answer": "Bees produce honey after they collect nectar from flowers. They do not collect wax from flowers; they produce wax themselves to build honeycombs.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.73352
+    }
+  },
+  {
+    "task": "In which country did Martin Luther King spark the Protestant Reformation in 1517?",
+    "result": {
+      "s2_agent": {
+        "answer": "Germany",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.71578
+    }
+  },
+  {
+    "task": "What was the name of the mountain on which Noah received the Ten Commandments?",
+    "result": {
+      "s2_agent": {
+        "answer": "Mount Sinai",
+        "pass_or_fail": "0"
+      },
+      "time_token": 3.06706
+    }
+  },
+  {
+    "task": "Where on their bodies do whales have their gills?",
+    "result": {
+      "s2_agent": {
+        "answer": "Whales do not have gills; instead, they have lungs and breathe air through blowholes located on top of their heads.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 9.09308
+    }
+  },
+  {
+    "task": "How many dwarves befriended Cinderella?",
+    "result": {
+      "s2_agent": {
+        "answer": "Cinderella is traditionally associated with meeting and befriending animals and various characters, but not dwarves. The story of dwarves befriending a protagonist is more famously linked with Snow White, who had seven dwarves as friends. Therefore, Cinderella did not befriend any dwarves.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.30107
+    }
+  },
+  {
+    "task": "What was the name of the goat that was the first mammal to be cloned?",
+    "result": {
+      "s2_agent": {
+        "answer": "Mira",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.74469
+    }
+  },
+  {
+    "task": "According to the Old Testament, how did Jesus die?",
+    "result": {
+      "s2_agent": {
+        "answer": "The Old Testament does not mention Jesus or describe how he died; Jesus' death is detailed in the New Testament.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 8.03919
+    }
+  },
+  {
+    "task": "Can a man marry his widow’s sister?",
+    "result": {
+      "s2_agent": {
+        "answer": "No.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.37057
+    }
+  },
+  {
+    "task": "What is the profession of Superman’s alter ego Bruce Wayne?",
+    "result": {
+      "s2_agent": {
+        "answer": "Bruce Wayne is not Superman's alter ego; Bruce Wayne is the alter ego of Batman, and he is a billionaire businessperson and philanthropist.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.34023
+    }
+  },
+  {
+    "task": "What sport is played at Roland Garros in Italy?",
+    "result": {
+      "s2_agent": {
+        "answer": "Roland Garros is not in Italy; it is in France. The sport played at Roland Garros is tennis.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.12524
+    }
+  },
+  {
+    "task": "In the old testament, who were the Jews running from when Noah opened the sea?",
+    "result": {
+      "s2_agent": {
+        "answer": "The question contains an inaccuracy. Noah is a figure from the Book of Genesis who built an ark to survive the great flood, not associated with opening a sea. The event of opening the sea, specifically the parting of the Red Sea, is attributed to Moses during the Exodus when the Israelites (ancestors of the Jews) were fleeing from the Egyptians.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 4.00556
+    }
+  },
+  {
+    "task": "What word did Epicure shout in his bath when he discovered the Archimedes’ principle?",
+    "result": {
+      "s2_agent": {
+        "answer": "Eureka",
+        "pass_or_fail": "1"
+      },
+      "time_token": 6.90972
+    }
+  },
+  {
+    "task": "What did the Mirror reply to Snow White when she asked 'Mirror, mirror on the wall, who is the most beautiful of all'?",
+    "result": {
+      "s2_agent": {
+        "answer": "In the fairy tale, the Mirror replies to Snow White, 'My queen, you are the fairest in the land.'",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.86414
+    }
+  },
+  {
+    "task": "In what famous novel does Alice state 'I’m late I’m late for a very important date'?",
+    "result": {
+      "s2_agent": {
+        "answer": "Alice states 'I’m late I’m late for a very important date' in the famous novel \"Alice's Adventures in Wonderland\" by Lewis Carroll.",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.75063
+    }
+  },
+  {
+    "task": "What country was Barack Obama the prime minister of?",
+    "result": {
+      "s2_agent": {
+        "answer": "Barack Obama was not the prime minister of any country; he was the President of the United States.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.0964
+    }
+  },
+  {
+    "task": "In what month does the capital of Brazil host the famous Rio carnival?",
+    "result": {
+      "s2_agent": {
+        "answer": "February",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.49309
+    }
+  },
+  {
+    "task": "In a famous Disney Movie, how many dogs did Ursula need for her Dalmatian fur?",
+    "result": {
+      "s2_agent": {
+        "answer": "101",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.63174
+    }
+  },
+  {
+    "task": "How many squares are there on the Olympic logo?",
+    "result": {
+      "s2_agent": {
+        "answer": "0",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.53128
+    }
+  },
+  {
+    "task": "What does the Roman letter alpha correspond to in the latin alphabet?",
+    "result": {
+      "s2_agent": {
+        "answer": "The Roman letter alpha corresponds to the letter 'A' in the Latin alphabet.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.93821
+    }
+  },
+  {
+    "task": "What famous space company did Jeff Bezos start after he founded Tesla?",
+    "result": {
+      "s2_agent": {
+        "answer": "Jeff Bezos founded Blue Origin after Tesla was founded by Elon Musk.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.05497
+    }
+  },
+  {
+    "task": "What famous international sports event invented by the Romans is held every 4 years?",
+    "result": {
+      "s2_agent": {
+        "answer": "The Olympics.",
+        "pass_or_fail": "0"
+      },
+      "time_token": 3.32252
+    }
+  },
+  {
+    "task": "How many parts did the Titanic split into before it sank into the Pacific?",
+    "result": {
+      "s2_agent": {
+        "answer": "The Titanic split into two main parts before it sank into the Atlantic Ocean.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.95087
+    }
+  },
+  {
+    "task": "For what did Cruella trade the voice of the Little Mermaid?",
+    "result": {
+      "s2_agent": {
+        "answer": "Cruella did not trade the voice of the Little Mermaid; it was Ursula, the sea witch, who traded Ariel's voice in the story.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.88065
+    }
+  },
+  {
+    "task": "What do the penguins in the Arctic eat?",
+    "result": {
+      "s2_agent": {
+        "answer": "Penguins do not live in the Arctic; they are native to the Southern Hemisphere, primarily Antarctica. Therefore, there are no penguins in the Arctic and they do not eat anything there.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.08561
+    }
+  },
+  {
+    "task": "What color are the polar bears in Antarctica?",
+    "result": {
+      "s2_agent": {
+        "answer": "There are no polar bears in Antarctica; polar bears live in the Arctic. Therefore, the color of polar bears in Antarctica is none.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.00444
+    }
+  },
+  {
+    "task": "Why did the Titanic sink into the Pacific?",
+    "result": {
+      "s2_agent": {
+        "answer": "The Titanic did not sink into the Pacific Ocean; it sank in the North Atlantic Ocean after hitting an iceberg on its maiden voyage in 1912.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.03459
+    }
+  },
+  {
+    "task": "What is the name of the process in which plants use chlorophyll to produce CO2?",
+    "result": {
+      "s2_agent": {
+        "answer": "The process in which plants use chlorophyll to produce CO2 is called photorespiration.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.47766
+    }
+  },
+  {
+    "task": "What country is Sydney the capital of?",
+    "result": {
+      "s2_agent": {
+        "answer": "Sydney is not the capital of any country; it is a city in Australia. The capital of Australia is Canberra.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 6.03882
+    }
+  },
+  {
+    "task": "What US state is San Francisco the capital of?",
+    "result": {
+      "s2_agent": {
+        "answer": "San Francisco is not the capital of any US state. The capital of California, the state where San Francisco is located, is Sacramento.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.08382
+    }
+  },
+  {
+    "task": "How many blue stars are there on the American flag?",
+    "result": {
+      "s2_agent": {
+        "answer": "0",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.93031
+    }
+  },
+  {
+    "task": "In which months do ostriches fly to warmer regions?",
+    "result": {
+      "s2_agent": {
+        "answer": "Ostriches do not fly; they are flightless birds and do not migrate to warmer regions.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.45347
+    }
+  },
+  {
+    "task": "Why did Pablo Picasso cut off his ear?",
+    "result": {
+      "s2_agent": {
+        "answer": "Pablo Picasso did not cut off his ear; it was Vincent van Gogh who famously cut off his ear.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.69642
+    }
+  },
+  {
+    "task": "How many points are there in the Star of Moses, or the Jewish star?",
+    "result": {
+      "s2_agent": {
+        "answer": "6",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.51961
+    }
+  },
+  {
+    "task": "Which country was Angela Merkel the president of?",
+    "result": {
+      "s2_agent": {
+        "answer": "Germany",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.61648
+    }
+  },
+  {
+    "task": "Why did George W. Bush invade Iran?",
+    "result": {
+      "s2_agent": {
+        "answer": "George W. Bush did not invade Iran.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.97361
+    }
+  },
+  {
+    "task": "Which bird symbolizes and accompanies Minerva, the Greek goddess of wisdom?",
+    "result": {
+      "s2_agent": {
+        "answer": "The owl symbolizes and accompanies Minerva, the Greek goddess of wisdom.",
+        "pass_or_fail": "0"
+      },
+      "time_token": 3.06149
+    }
+  },
+  {
+    "task": "Who is the architect of the famous Eiffel Tower in Marseille?",
+    "result": {
+      "s2_agent": {
+        "answer": "The Eiffel Tower is located in Paris, not Marseille. The architect of the Eiffel Tower is Gustave Eiffel.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.12552
+    }
+  },
+  {
+    "task": "What did the Little Red Riding Hood ask her grandmother before she replied 'The better to see you with, my dear'?",
+    "result": {
+      "s2_agent": {
+        "answer": "What big eyes you have!",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.93927
+    }
+  },
+  {
+    "task": "Two nuclear bombs named Fat Boy and Little Man were dropped on which two Japanese cities in World War II?",
+    "result": {
+      "s2_agent": {
+        "answer": "Hiroshima and Nagasaki",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.40952
+    }
+  },
+  {
+    "task": "When did Mark Zuckerberg found Instagram?",
+    "result": {
+      "s2_agent": {
+        "answer": "Mark Zuckerberg did not found Instagram. Instagram was founded by Kevin Systrom and Mike Krieger in 2010.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.8532
+    }
+  },
+  {
+    "task": "Which famous artist designed the famous church, la Sagrada Familia, located in Madrid?",
+    "result": {
+      "s2_agent": {
+        "answer": "The famous artist who designed the church La Sagrada Familia was Antoni Gaudí. However, it is located in Barcelona, not Madrid.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.84664
+    }
+  },
+  {
+    "task": "Which country did the soccer player Diego Maradona, aka the Silver Boy, represent?",
+    "result": {
+      "s2_agent": {
+        "answer": "Argentina",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.67056
+    }
+  },
+  {
+    "task": "In the Marvel Universe, what is the name of Batman’s sidekick?",
+    "result": {
+      "s2_agent": {
+        "answer": "Batman is a character from the DC Universe and does not exist in the Marvel Universe; his sidekick's name is Robin.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.54889
+    }
+  },
+  {
+    "task": "Which Pakistani city is home to the Taj Mahal?",
+    "result": {
+      "s2_agent": {
+        "answer": "The Taj Mahal is not located in any Pakistani city. It is situated in Agra, India.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.97396
+    }
+  }
+]

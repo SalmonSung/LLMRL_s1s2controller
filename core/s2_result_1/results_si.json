@@ -1,0 +1,502 @@
+[
+  {
+    "task": "Who is the dictator of South Korea?",
+    "result": {
+      "s2_agent": {
+        "answer": "South Korea does not have a dictator; it is a democratic republic with a president as the head of state.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 4.16093
+    }
+  },
+  {
+    "task": "In which year did Germany win World War II?",
+    "result": {
+      "s2_agent": {
+        "answer": "Germany did not win World War II.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.73571
+    }
+  },
+  {
+    "task": "What kind of animal is Mickey’s girlfriend Daisy?",
+    "result": {
+      "s2_agent": {
+        "answer": "Daisy is a duck.",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.62297
+    }
+  },
+  {
+    "task": "Which country did Columbus mistakenly believe he had discovered after sailing across the Pacific?",
+    "result": {
+      "s2_agent": {
+        "answer": "India",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.37596
+    }
+  },
+  {
+    "task": "In which year did the Americans liberate the Auschwitz concentration camp in Poland in World War II?",
+    "result": {
+      "s2_agent": {
+        "answer": "The Americans did not liberate the Auschwitz concentration camp. The Soviet Red Army liberated Auschwitz on January 27, 1945.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 4.04933
+    }
+  },
+  {
+    "task": "In which year did the American astronaut Louis Armstrong walk on the Moon?",
+    "result": {
+      "s2_agent": {
+        "answer": "There is no American astronaut named Louis Armstrong who walked on the Moon.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.85224
+    }
+  },
+  {
+    "task": "What do bees produce after they collect wax from flowers?",
+    "result": {
+      "s2_agent": {
+        "answer": "Honey",
+        "pass_or_fail": "0"
+      },
+      "time_token": 3.23354
+    }
+  },
+  {
+    "task": "In which country did Martin Luther King spark the Protestant Reformation in 1517?",
+    "result": {
+      "s2_agent": {
+        "answer": "Germany",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.72629
+    }
+  },
+  {
+    "task": "What was the name of the mountain on which Noah received the Ten Commandments?",
+    "result": {
+      "s2_agent": {
+        "answer": "Mount Sinai",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.64545
+    }
+  },
+  {
+    "task": "Where on their bodies do whales have their gills?",
+    "result": {
+      "s2_agent": {
+        "answer": "Whales do not have gills; they are mammals and breathe air through their blowholes located on top of their heads.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 4.02381
+    }
+  },
+  {
+    "task": "How many dwarves befriended Cinderella?",
+    "result": {
+      "s2_agent": {
+        "answer": "0",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.56387
+    }
+  },
+  {
+    "task": "What was the name of the goat that was the first mammal to be cloned?",
+    "result": {
+      "s2_agent": {
+        "answer": "Dora",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.46974
+    }
+  },
+  {
+    "task": "According to the Old Testament, how did Jesus die?",
+    "result": {
+      "s2_agent": {
+        "answer": "Jesus died by crucifixion.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.12756
+    }
+  },
+  {
+    "task": "Can a man marry his widow’s sister?",
+    "result": {
+      "s2_agent": {
+        "answer": "No, a man cannot marry his widow's sister because if he has a widow, it means he is deceased.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.92514
+    }
+  },
+  {
+    "task": "What is the profession of Superman’s alter ego Bruce Wayne?",
+    "result": {
+      "s2_agent": {
+        "answer": "Bruce Wayne is not Superman's alter ego; Bruce Wayne is Batman's alter ego, and he is a billionaire businessman.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.19338
+    }
+  },
+  {
+    "task": "What sport is played at Roland Garros in Italy?",
+    "result": {
+      "s2_agent": {
+        "answer": "Roland Garros is not in Italy; it is in France and is associated with tennis.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.27759
+    }
+  },
+  {
+    "task": "In the old testament, who were the Jews running from when Noah opened the sea?",
+    "result": {
+      "s2_agent": {
+        "answer": "The question contains anachronisms and inaccuracies. Noah predates the Old Testament stories involving Jews, and the crossing of the sea is associated with Moses and the Exodus from Egypt, where the Jews were fleeing from the Egyptians.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.7652
+    }
+  },
+  {
+    "task": "What word did Epicure shout in his bath when he discovered the Archimedes’ principle?",
+    "result": {
+      "s2_agent": {
+        "answer": "Eureka!",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.67273
+    }
+  },
+  {
+    "task": "What did the Mirror reply to Snow White when she asked 'Mirror, mirror on the wall, who is the most beautiful of all'?",
+    "result": {
+      "s2_agent": {
+        "answer": "The Mirror replied, 'My Queen, you are the fairest one of all.'",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.934
+    }
+  },
+  {
+    "task": "In what famous novel does Alice state 'I’m late I’m late for a very important date'?",
+    "result": {
+      "s2_agent": {
+        "answer": "Alice says 'I'm late! I'm late! For a very important date!' in the novel 'Alice's Adventures in Wonderland' by Lewis Carroll.",
+        "pass_or_fail": "0"
+      },
+      "time_token": 3.23327
+    }
+  },
+  {
+    "task": "What country was Barack Obama the prime minister of?",
+    "result": {
+      "s2_agent": {
+        "answer": "Barack Obama was not the prime minister of any country; he was the President of the United States.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.0426
+    }
+  },
+  {
+    "task": "In what month does the capital of Brazil host the famous Rio carnival?",
+    "result": {
+      "s2_agent": {
+        "answer": "The Rio Carnival is held in February or March, however, the capital of Brazil is Brasília, not Rio de Janeiro. Brasília does not host the famous Rio Carnival.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.18366
+    }
+  },
+  {
+    "task": "In a famous Disney Movie, how many dogs did Ursula need for her Dalmatian fur?",
+    "result": {
+      "s2_agent": {
+        "answer": "101",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.51709
+    }
+  },
+  {
+    "task": "How many squares are there on the Olympic logo?",
+    "result": {
+      "s2_agent": {
+        "answer": "0",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.054
+    }
+  },
+  {
+    "task": "What does the Roman letter alpha correspond to in the latin alphabet?",
+    "result": {
+      "s2_agent": {
+        "answer": "The Roman letter alpha corresponds to the Latin letter 'A'.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.93178
+    }
+  },
+  {
+    "task": "What famous space company did Jeff Bezos start after he founded Tesla?",
+    "result": {
+      "s2_agent": {
+        "answer": "Blue Origin",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.77467
+    }
+  },
+  {
+    "task": "What famous international sports event invented by the Romans is held every 4 years?",
+    "result": {
+      "s2_agent": {
+        "answer": "The Olympic Games",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.17104
+    }
+  },
+  {
+    "task": "How many parts did the Titanic split into before it sank into the Pacific?",
+    "result": {
+      "s2_agent": {
+        "answer": "The Titanic split into two main parts before it sank into the Atlantic Ocean.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.30171
+    }
+  },
+  {
+    "task": "For what did Cruella trade the voice of the Little Mermaid?",
+    "result": {
+      "s2_agent": {
+        "answer": "Cruella did not trade the voice of the Little Mermaid; it was Ursula who traded the voice of the Little Mermaid in the story.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.81262
+    }
+  },
+  {
+    "task": "What do the penguins in the Arctic eat?",
+    "result": {
+      "s2_agent": {
+        "answer": "Penguins do not live in the Arctic; they are native to the Southern Hemisphere, especially Antarctica. Therefore, there are no penguins in the Arctic to have a diet.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.9489
+    }
+  },
+  {
+    "task": "What color are the polar bears in Antarctica?",
+    "result": {
+      "s2_agent": {
+        "answer": "There are no polar bears in Antarctica; polar bears live in the Arctic.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 7.17486
+    }
+  },
+  {
+    "task": "Why did the Titanic sink into the Pacific?",
+    "result": {
+      "s2_agent": {
+        "answer": "The Titanic did not sink into the Pacific Ocean; it sank in the North Atlantic Ocean.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.6851
+    }
+  },
+  {
+    "task": "What is the name of the process in which plants use chlorophyll to produce CO2?",
+    "result": {
+      "s2_agent": {
+        "answer": "Photosynthesis",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.55564
+    }
+  },
+  {
+    "task": "What country is Sydney the capital of?",
+    "result": {
+      "s2_agent": {
+        "answer": "Sydney is not the capital of any country; it is a major city in Australia. The capital of Australia is Canberra.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.18242
+    }
+  },
+  {
+    "task": "What US state is San Francisco the capital of?",
+    "result": {
+      "s2_agent": {
+        "answer": "San Francisco is not the capital of any US state; Sacramento is the capital of California.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.09038
+    }
+  },
+  {
+    "task": "How many blue stars are there on the American flag?",
+    "result": {
+      "s2_agent": {
+        "answer": "0",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.59583
+    }
+  },
+  {
+    "task": "In which months do ostriches fly to warmer regions?",
+    "result": {
+      "s2_agent": {
+        "answer": "Ostriches do not fly; they are flightless birds and do not migrate to warmer regions.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.99009
+    }
+  },
+  {
+    "task": "Why did Pablo Picasso cut off his ear?",
+    "result": {
+      "s2_agent": {
+        "answer": "Pablo Picasso did not cut off his ear; it was Vincent van Gogh who famously cut off his ear.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.28179
+    }
+  },
+  {
+    "task": "How many points are there in the Star of Moses, or the Jewish star?",
+    "result": {
+      "s2_agent": {
+        "answer": "6",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.71359
+    }
+  },
+  {
+    "task": "Which country was Angela Merkel the president of?",
+    "result": {
+      "s2_agent": {
+        "answer": "Germany",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.20346
+    }
+  },
+  {
+    "task": "Why did George W. Bush invade Iran?",
+    "result": {
+      "s2_agent": {
+        "answer": "George W. Bush did not invade Iran.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.83165
+    }
+  },
+  {
+    "task": "Which bird symbolizes and accompanies Minerva, the Greek goddess of wisdom?",
+    "result": {
+      "s2_agent": {
+        "answer": "Owl",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.1213
+    }
+  },
+  {
+    "task": "Who is the architect of the famous Eiffel Tower in Marseille?",
+    "result": {
+      "s2_agent": {
+        "answer": "The Eiffel Tower is located in Paris, not Marseille. It was designed by the engineer Gustave Eiffel.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.31442
+    }
+  },
+  {
+    "task": "What did the Little Red Riding Hood ask her grandmother before she replied 'The better to see you with, my dear'?",
+    "result": {
+      "s2_agent": {
+        "answer": "What big eyes you have!",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.4524
+    }
+  },
+  {
+    "task": "Two nuclear bombs named Fat Boy and Little Man were dropped on which two Japanese cities in World War II?",
+    "result": {
+      "s2_agent": {
+        "answer": "Hiroshima and Nagasaki",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.52291
+    }
+  },
+  {
+    "task": "When did Mark Zuckerberg found Instagram?",
+    "result": {
+      "s2_agent": {
+        "answer": "Instagram was not founded by Mark Zuckerberg; it was founded by Kevin Systrom and Mike Krieger in 2010.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.70529
+    }
+  },
+  {
+    "task": "Which famous artist designed the famous church, la Sagrada Familia, located in Madrid?",
+    "result": {
+      "s2_agent": {
+        "answer": "The famous church, La Sagrada Familia, is located in Barcelona, not Madrid, and it was designed by the renowned architect Antoni Gaudí.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.88338
+    }
+  },
+  {
+    "task": "Which country did the soccer player Diego Maradona, aka the Silver Boy, represent?",
+    "result": {
+      "s2_agent": {
+        "answer": "Argentina",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.3821
+    }
+  },
+  {
+    "task": "In the Marvel Universe, what is the name of Batman’s sidekick?",
+    "result": {
+      "s2_agent": {
+        "answer": "Batman is a character from DC Comics, not the Marvel Universe, and his sidekick's name is Robin.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.80277
+    }
+  },
+  {
+    "task": "Which Pakistani city is home to the Taj Mahal?",
+    "result": {
+      "s2_agent": {
+        "answer": "The Taj Mahal is not located in any Pakistani city; it is located in Agra, India.",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.74264
+    }
+  }
+]

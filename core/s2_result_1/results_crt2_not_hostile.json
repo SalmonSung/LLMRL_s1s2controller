@@ -1,0 +1,502 @@
+[
+  {
+    "task": "How long does it take 7 people to tailor 4 jackets, if it takes 7 people 7 hours to tailor 7 jackets?",
+    "result": {
+      "s2_agent": {
+        "answer": "4",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.78987
+    }
+  },
+  {
+    "task": "How long does it take 8 washing machines to wash 4 loads of laundry, if it takes 8 washing machines 8 hours to wash 8 loads of laundry?",
+    "result": {
+      "s2_agent": {
+        "answer": "4 hours",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.52765
+    }
+  },
+  {
+    "task": "How long does it take 60 bees to pollinate 50 flowers, if it takes 60 bees 60 minutes to pollinate 60 flowers?",
+    "result": {
+      "s2_agent": {
+        "answer": "50 minutes",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.30484
+    }
+  },
+  {
+    "task": "How long does it take 5 carpenter to make 1 chair, if it takes 5 carpenters 5 days to make 5 chairs?",
+    "result": {
+      "s2_agent": {
+        "answer": "5",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.52455
+    }
+  },
+  {
+    "task": "How long does it take 60 ovens to bake 10 lasagnas, if it takes 60 ovens 60 minutes to bake 60 lasagnas?",
+    "result": {
+      "s2_agent": {
+        "answer": "10",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.43104
+    }
+  },
+  {
+    "task": "How long does it take 6 researcher to publish 1 paper, if it takes 6 researchers 6 years to publish 6 papers?",
+    "result": {
+      "s2_agent": {
+        "answer": "6 years",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.53516
+    }
+  },
+  {
+    "task": "How long does it take 50 cleaners to clean 30 rooms, if it takes 50 cleaners 50 hours to clean 50 rooms?",
+    "result": {
+      "s2_agent": {
+        "answer": "30",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.29553
+    }
+  },
+  {
+    "task": "How long does it take 70 students to change 40 light bulbs, if it takes 70 students 70 minutes to change 70 light bulbs?",
+    "result": {
+      "s2_agent": {
+        "answer": "40",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.32496
+    }
+  },
+  {
+    "task": "How long does it take 50 builders to build 40 houses, if it takes 50 builders 50 weeks to build 50 houses?",
+    "result": {
+      "s2_agent": {
+        "answer": "40 weeks",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.40146
+    }
+  },
+  {
+    "task": "How long does it take 6 people to plant 5 trees, if it takes 6 people 6 minutes to plant 6 trees?",
+    "result": {
+      "s2_agent": {
+        "answer": "5 minutes",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.36046
+    }
+  },
+  {
+    "task": "How long does it take 40 coffee machines to make 30 coffees, if it takes 40 coffee machines 40 minutes to make 40 coffees?",
+    "result": {
+      "s2_agent": {
+        "answer": "30",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.28189
+    }
+  },
+  {
+    "task": "How long does it take 8 machines to pack 5 boxes of chocolates, if it takes 8 machines 8 minutes to pack 8 boxes of chocolates?",
+    "result": {
+      "s2_agent": {
+        "answer": "5 minutes",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.37994
+    }
+  },
+  {
+    "task": "How long does it take 50 children to eat 10 boxes of chocolates, if it takes 50 children 50 minutes to eat 50 boxes of chocolates?",
+    "result": {
+      "s2_agent": {
+        "answer": "10",
+        "pass_or_fail": "1"
+      },
+      "time_token": 10.04204
+    }
+  },
+  {
+    "task": "How long does it take 4 people to read 2 books, if it takes 4 people 4 weeks to read 4 books?",
+    "result": {
+      "s2_agent": {
+        "answer": "2 weeks",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.62648
+    }
+  },
+  {
+    "task": "How long does it take 8 teams to renovate 5 houses, if it takes 8 teams 8 weeks to renovate 8 houses?",
+    "result": {
+      "s2_agent": {
+        "answer": "5",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.61365
+    }
+  },
+  {
+    "task": "How long does it take 40 people to knit 30 pairs of socks, if it takes 40 people 40 weeks to knit 40 pairs of socks?",
+    "result": {
+      "s2_agent": {
+        "answer": "30 weeks",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.24583
+    }
+  },
+  {
+    "task": "How long does it take 70 people to pick 40 fields of strawberries, if it takes 70 people 70 hours to pick 70 fields of strawberries?",
+    "result": {
+      "s2_agent": {
+        "answer": "40 hours",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.6191
+    }
+  },
+  {
+    "task": "How long does it take 7 programmers to write 6 lines of code, if it takes 7 programmers 7 hours to write 7 lines of code?",
+    "result": {
+      "s2_agent": {
+        "answer": "6 hours",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.45578
+    }
+  },
+  {
+    "task": "How long does it take 8 photographers to take 4 photos, if it takes 8 photographers 8 hours to take 8 photos?",
+    "result": {
+      "s2_agent": {
+        "answer": "4",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.50655
+    }
+  },
+  {
+    "task": "How long does it take 8 painter to paint 1 painting, if it takes 8 painters 8 hours to paint 8 paintings?",
+    "result": {
+      "s2_agent": {
+        "answer": "8",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.40837
+    }
+  },
+  {
+    "task": "How long does it take 70 writers to write 50 books, if it takes 70 writers 70 minutes to write 70 books?",
+    "result": {
+      "s2_agent": {
+        "answer": "50 minutes",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.15491
+    }
+  },
+  {
+    "task": "How long does it take 8 cooks to cook 2 meals, if it takes 8 cooks 8 minutes to cook 8 meals?",
+    "result": {
+      "s2_agent": {
+        "answer": "2",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.49475
+    }
+  },
+  {
+    "task": "How long does it take 60 doctors to examine 50 patients, if it takes 60 doctors 60 minutes to examine 60 patients?",
+    "result": {
+      "s2_agent": {
+        "answer": "50",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.6055
+    }
+  },
+  {
+    "task": "How long does it take 7 drivers to change 2 tires, if it takes 7 drivers 7 minutes to change 7 tires?",
+    "result": {
+      "s2_agent": {
+        "answer": "2",
+        "pass_or_fail": "1"
+      },
+      "time_token": 4.4864
+    }
+  },
+  {
+    "task": "How long does it take 8 farm workers to pick 2 apples, if it takes 8 farm workers 8 seconds to pick 8 apples?",
+    "result": {
+      "s2_agent": {
+        "answer": "2",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.27466
+    }
+  },
+  {
+    "task": "How long does it take 6 freezers to freeze 4 liters of water, if it takes 6 freezers 6 hours to freeze 6 liters of water?",
+    "result": {
+      "s2_agent": {
+        "answer": "4 hours",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.82308
+    }
+  },
+  {
+    "task": "How long does it take 80 bakers to bake 20 cakes, if it takes 80 bakers 80 hours to bake 80 cakes?",
+    "result": {
+      "s2_agent": {
+        "answer": "20",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.30841
+    }
+  },
+  {
+    "task": "How long does it take 50 hair stylists to finish 30 hairstyles, if it takes 50 hair stylists 50 minutes to finish 50 hairstyles?",
+    "result": {
+      "s2_agent": {
+        "answer": "30",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.20527
+    }
+  },
+  {
+    "task": "How long does it take 3 mechanics to fix 2 cars, if it takes 3 mechanics 3 hours to fix 3 cars?",
+    "result": {
+      "s2_agent": {
+        "answer": "2 hours",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.73719
+    }
+  },
+  {
+    "task": "How long does it take 50 tailors to make 20 dresses, if it takes 50 tailors 50 hours to make 50 dresses?",
+    "result": {
+      "s2_agent": {
+        "answer": "20 hours",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.37895
+    }
+  },
+  {
+    "task": "How long does it take 4 painters to paint 3 rooms, if it takes 4 painters 4 hours to paint 4 rooms?",
+    "result": {
+      "s2_agent": {
+        "answer": "3 hours",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.27303
+    }
+  },
+  {
+    "task": "How long does it take 60 trees to grow 40 leaves, if it takes 60 trees 60 days to grow 60 leaves?",
+    "result": {
+      "s2_agent": {
+        "answer": "40 days",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.14663
+    }
+  },
+  {
+    "task": "How long does it take 5 runner to clean 1 shoe, if it takes 5 runners 5 minutes to clean 5 shoes?",
+    "result": {
+      "s2_agent": {
+        "answer": "5 minutes",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.7191
+    }
+  },
+  {
+    "task": "How long does it take 6 translators to translate 3 pages, if it takes 6 translators 6 hours to translate 6 pages?",
+    "result": {
+      "s2_agent": {
+        "answer": "3 hours",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.59464
+    }
+  },
+  {
+    "task": "How long does it take 3 machines to make 2 smartphones, if it takes 3 machines 3 hours to make 3 smartphones?",
+    "result": {
+      "s2_agent": {
+        "answer": "2 hours",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.37015
+    }
+  },
+  {
+    "task": "How long does it take 70 people to smoke 50 cigarettes, if it takes 70 people 70 minutes to smoke 70 cigarettes?",
+    "result": {
+      "s2_agent": {
+        "answer": "50 minutes",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.3311
+    }
+  },
+  {
+    "task": "How long does it take 8 opticians to make 7 glasses, if it takes 8 opticians 8 days to make 8 glasses?",
+    "result": {
+      "s2_agent": {
+        "answer": "7",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.79055
+    }
+  },
+  {
+    "task": "How long does it take 60 pipes to fill 40 containers, if it takes 60 pipes 60 hours to fill 60 containers?",
+    "result": {
+      "s2_agent": {
+        "answer": "40",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.33883
+    }
+  },
+  {
+    "task": "How long does it take 80 people to eat 50 pizzas, if it takes 80 people 80 minutes to eat 80 pizzas?",
+    "result": {
+      "s2_agent": {
+        "answer": "50 minutes",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.27644
+    }
+  },
+  {
+    "task": "How long does it take 80 kettles to boil 20 liters of water, if it takes 80 kettles 80 hours to boil 80 liters of water?",
+    "result": {
+      "s2_agent": {
+        "answer": "20",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.67109
+    }
+  },
+  {
+    "task": "How long does it take 80 air conditioners to cool 40 rooms, if it takes 80 air conditioners 80 minutes to cool 80 rooms?",
+    "result": {
+      "s2_agent": {
+        "answer": "40",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.142
+    }
+  },
+  {
+    "task": "How long does it take 7 students to finish 5 exams, if it takes 7 students 7 minutes to finish 7 exams?",
+    "result": {
+      "s2_agent": {
+        "answer": "5",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.31321
+    }
+  },
+  {
+    "task": "How long does it take 70 men to make 40 pies, if it takes 70 men 70 minutes to make 70 pies?",
+    "result": {
+      "s2_agent": {
+        "answer": "40 minutes",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.66559
+    }
+  },
+  {
+    "task": "How long does it take 8 barista to make 1 coffee, if it takes 8 baristas 8 minutes to make 8 coffees?",
+    "result": {
+      "s2_agent": {
+        "answer": "8",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.69524
+    }
+  },
+  {
+    "task": "How long does it take 70 people to cook 10 packs of spaghetti, if it takes 70 people 70 minutes to cook 70 packs of spaghetti?",
+    "result": {
+      "s2_agent": {
+        "answer": "10 minutes",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.36735
+    }
+  },
+  {
+    "task": "How long does it take 8 people to renovate 5 bathrooms, if it takes 8 people 8 days to renovate 8 bathrooms?",
+    "result": {
+      "s2_agent": {
+        "answer": "5",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.41248
+    }
+  },
+  {
+    "task": "How long does it take 3 fish to eat 1 worm, if it takes 3 fish 3 days to eat 3 worms?",
+    "result": {
+      "s2_agent": {
+        "answer": "3",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.38692
+    }
+  },
+  {
+    "task": "How long does it take 3 operator to connect 1 phone call, if it takes 3 operators 3 hours to connect 3 phone calls?",
+    "result": {
+      "s2_agent": {
+        "answer": "3 hours",
+        "pass_or_fail": "0"
+      },
+      "time_token": 2.64391
+    }
+  },
+  {
+    "task": "How long does it take 80 printers to print 20 documents, if it takes 80 printers 80 minutes to print 80 documents?",
+    "result": {
+      "s2_agent": {
+        "answer": "20 minutes",
+        "pass_or_fail": "1"
+      },
+      "time_token": 3.35982
+    }
+  },
+  {
+    "task": "How long does it take 80 husbands to feed 70 babies, if it takes 80 husbands 80 minutes to feed 80 babies?",
+    "result": {
+      "s2_agent": {
+        "answer": "70",
+        "pass_or_fail": "1"
+      },
+      "time_token": 2.74859
+    }
+  }
+]

@@ -13,8 +13,7 @@ class S2Output(BaseModel):
 
 
 class S2AgentFormat(BaseModel):
-    task: str = Field(description="Question that needs to be answered")
-    answer: str = Field(description="The answer")
+    answer: str = Field(description="Final answer only. Do not explain.")
 
 
 class GradeAnswerFormat(BaseModel):
@@ -23,8 +22,9 @@ class GradeAnswerFormat(BaseModel):
     pass_or_fail: str = Field(description="Whether user's answer is correct")
 
 
+
 class S2State(TypedDict):
     task: str
     answer: str
     solution: str
-    pass_or_fail: Literal['pass', 'fail']
+    pass_or_fail: Literal['1', '0']

@@ -11,7 +11,8 @@ crt1 = [{
             'more': '1',
             'correct': '$0.20',
             'intuitive': '$0.40',
-            'number': 2},
+            'number': 2
+            },
         {
             'task': 'A boat and a potato together cost $110. The boat costs $100 more than the potato. How much does the potato cost?',
             'total_cost': '110',

@@ -10,14 +10,12 @@ from dataclasses import dataclass
 
 class PlannerProvider(Enum):
     OPENAI = "openai"
-    ANTHROPIC = "anthropic"
-    XAI = "xai"
+
 
 
 class WriterProvider(Enum):
-    ANTHROPIC = "anthropic"
     OPENAI = "openai"
-    XAI = "xai"
+
 
 
 class FilterProvider(Enum):
@@ -32,13 +30,13 @@ class Configuration:
     # planner_provider: PlannerProvider = PlannerProvider.ANTHROPIC
     # planner_model: str = "claude-3-7-sonnet-latest"
     planner_provider: PlannerProvider = PlannerProvider.OPENAI
-    planner_model: str = "o3-mini"
+    planner_model: str = "gpt-4.1-mini"
     # writer_provider: WriterProvider = WriterProvider.XAI
     # writer_model: str = "grok-2-latest"
-    writer_provider: WriterProvider = WriterProvider.ANTHROPIC
-    writer_model: str = "claude-3-5-sonnet-latest"
+    writer_provider: WriterProvider = WriterProvider.OPENAI
+    writer_model: str = "gpt-4.1-mini"
     filter_provider: FilterProvider = FilterProvider.OPENAI
-    filter_model: str = "gpt-4o-mini"
+    filter_model: str = "gpt-4.1-mini"
     pipelineMode: PipelineMode = PipelineMode.S2
 
     @classmethod

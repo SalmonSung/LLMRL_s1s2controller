@@ -10,11 +10,10 @@ class S1Output(BaseModel):
     pass_or_fail: str
 
 class S1AgentFormat(BaseModel):
-    task: str = Field(description="Question that needs to be answered")
-    answer: str = Field(description="The answer")
+    answer: str = Field(description="Final answer only. No explanation.")
 
 class S1State(TypedDict):
     task: str
     answer: str
     solution: str
-    pass_or_fail: Literal['pass', 'fail']
+    pass_or_fail: Literal['1', '0']

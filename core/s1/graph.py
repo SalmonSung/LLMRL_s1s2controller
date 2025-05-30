@@ -12,21 +12,26 @@ def s1_agent(state: S1State, config: RunnableConfig):
     configurable = Configuration.from_runnable_config(config)
     writer_model = configurable.writer_model
     if writer_model == "claude-3-7-sonnet-latest":
-        writer_llm = init_chat_model(model=writer_model,
-                                     max_tokens=20000,
-                                     thinking={"type": "disabled", "budget_tokens": 16000})
+        writer_llm = init_chat_model(
+            model=writer_model,
+            max_tokens=20000,
+            thinking={"type": "disabled", "budget_tokens": 16000},
+        )
     else:
         writer_llm = init_chat_model(model=writer_model)
-    agent = create_react_agent(
-        model=writer_llm,
-        tools=[],  # 不使用工具
-        prompt=s1Agent_prompt,
-        response_format=S1AgentFormat,
+
+    structured_llm = writer_llm.with_structured_output(S1AgentFormat)
+
+    full_prompt = (
+        s1Agent_prompt.strip()
+        + f"\n\nQuestion: {state['task'].strip()}"
     )
-    inputs = {"messages": state["task"]}
-    for output in agent.stream(inputs, stream_mode="updates"):
-        if output.get("structured_response"):
-            return {"answer": output["structured_response"].answer}
+
+    output = structured_llm.invoke(full_prompt)
+
+    return{"answer": output.answer}
+
+
 
 s1_agent_builder = StateGraph(S1State, input=S1Input, output=S1Output, config_schema=Configuration)
 s1_agent_builder.add_node("s1_agent", s1_agent)

@@ -15,4 +15,4 @@ class SectionState(TypedDict):
     task: str
     answer: str
     solution: str
-    pass_or_fail: Literal['pass', 'fail']
+    pass_or_fail: Literal['1', '0']

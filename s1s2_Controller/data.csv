@@ -1,0 +1,351 @@
+task,s1_fail_or_pass,s1_time_token,s2_fail_or_pass,s2_time_token,s1_or_s2
+A CD and a pan together cost $13. The CD costs $10 more than the pan. How much does the pan cost?,1,3.3496366666666666,1,3.048106666666667,1
+A CD and a pan together cost $13. The CD costs $10. How much does the pan cost?,0,2.97355,0,2.72208,0
+A bag and a coffee table together cost $53. The bag costs $50 more than the coffee table. How much does the coffee table cost?,1,2.976226666666667,1,3.3425066666666665,0
+A bag and a coffee table together cost $53. The bag costs $50. How much does the coffee table cost?,0,2.9185033333333337,0,2.828796666666667,0
+A bag and a food processor together cost $54. The bag costs $50 more than the food processor. How much does the food processor cost?,1,2.99974,1,3.116376666666667,0
+A bag and a food processor together cost $54. The bag costs $50. How much does the food processor cost?,0,2.890753333333333,0,2.824873333333333,0
+"A barrel is being filled with whiskey, and the total volume of whiskey doubles every minute. If it takes 12 minutes to completely fill the barrel, how long would it take to fill half of it with whiskey?",1,3.9224666666666663,1,2.879683333333334,1
+"A barrel is being filled with whiskey. If it takes 12 minutes to completely fill the barrel, how long would it take to fill half of it with whiskey?",0,3.419513333333333,0,3.0206633333333333,0
+A blanket and a flashlight together cost $52. The blanket costs $50 more than the flashlight. How much does the flashlight cost?,1,2.792123333333333,1,3.025816666666667,0
+A blanket and a flashlight together cost $52. The blanket costs $50. How much does the flashlight cost?,0,3.704790000000001,0,2.869523333333333,0
+A boat and a potato together cost $110. The boat costs $100 more than the potato. How much does the potato cost?,1,3.445816666666667,1,3.11517,1
+A boat and a potato together cost $110. The boat costs $100. How much does the potato cost?,0,3.29595,0,2.9186300000000003,0
+A bottle of bath salts and a pack of diapers together cost $510. The bottle of bath salts costs $500 more than the pack of diapers. How much does the pack of diapers cost?,1,2.8309133333333336,1,3.13743,0
+A bottle of bath salts and a pack of diapers together cost $510. The bottle of bath salts costs $500. How much does the pack of diapers cost?,0,3.23466,0,2.86488,0
+A bottle of bath salts and a set of crayons together cost $520. The bottle of bath salts costs $500 more than the set of crayons. How much does the set of crayons cost?,1,2.9855700000000005,1,3.0342733333333336,0
+A bottle of bath salts and a set of crayons together cost $520. The bottle of bath salts costs $500. How much does the set of crayons cost?,0,3.4728933333333334,0,2.88592,0
+A bottle of shampoo and a knife together cost $110. The bottle of shampoo costs $100 more than the knife. How much does the knife cost?,1,3.146583333333333,1,2.7677,1
+A bottle of shampoo and a knife together cost $110. The bottle of shampoo costs $100. How much does the knife cost?,0,3.4238866666666667,0,3.380876666666667,0
+A box of mascara and a microwave oven together cost $14. The box of mascara costs $10 more than the microwave oven. How much does the microwave oven cost?,1,2.893546666666667,1,3.0946933333333333,0
+A box of mascara and a microwave oven together cost $14. The box of mascara costs $10. How much does the microwave oven cost?,0,2.95255,0,2.682823333333334,0
+A can of baby food and a helmet together cost $1.20. The can of baby food costs $1 more than the helmet. How much does the helmet cost?,1,3.28985,1,2.888723333333333,1
+A can of baby food and a helmet together cost $1.20. The can of baby food costs $1. How much does the helmet cost?,0,3.698006666666666,0,2.9992066666666664,0
+A chair and a coat together cost $13. The chair costs $10 more than the coat. How much does the coat cost?,1,3.064966666666667,1,2.787103333333333,1
+A chair and a coat together cost $13. The chair costs $10. How much does the coat cost?,0,3.203113333333333,0,2.7859600000000007,0
+A coat and a pot together cost $510. The coat costs $500 more than the pot. How much does the pot cost?,1,3.09244,1,2.67882,1
+A coat and a pot together cost $510. The coat costs $500. How much does the pot cost?,0,2.8740900000000003,0,3.06747,0
+A coffee table and a mixing bowl together cost $52. The coffee table costs $50 more than the mixing bowl. How much does the mixing bowl cost?,1,3.4271100000000003,1,2.7825733333333336,1
+A coffee table and a mixing bowl together cost $52. The coffee table costs $50. How much does the mixing bowl cost?,0,3.46464,0,2.7154633333333336,0
+"A colony of bacteria is growing on yogurt, and the size of the colony doubles daily. If it takes 4 days for the colony to completely cover the yogurt, how many days does it take for the patch to cover half of the yogurt?",1,3.271416666666667,1,3.328463333333333,0
+"A colony of bacteria is growing on yogurt. If it takes 4 days for the colony to completely cover the yogurt, how many days does it take for the patch to cover half of the yogurt?",1,2.7033533333333337,1,2.776736666666667,0
+"A dust cloud hovers above the city, doubling in size each day. If it takes 12 days for the entire city to be engulfed by the cloud, how many days does it take for the cloud to cover half of the city?",1,3.0626866666666666,1,2.664706666666667,1
+"A dust cloud hovers above the city. If it takes 12 days for the entire city to be engulfed by the cloud, how many days does it take for the cloud to cover half of the city?",0,3.281363333333333,1,2.9628366666666666,1
+"A factory is busy filling bags with chocolate cookies. Given that it takes 8 hours to fill all the bags, how much time is required to fill half of the bags?",0,3.108726666666667,0,2.9722033333333333,0
+"A factory is busy filling bags with chocolate cookies. The total number of bags filled doubles with each passing hour. Given that it takes 8 hours to fill all the bags, how much time is required to fill half of the bags?",1,3.1874466666666668,1,2.7756700000000003,1
+"A farmer is plowing a field. Each hour, the total plowed area doubles. If it takes 10 hours for the entire field to be plowed, how long would it take for half of the field to be plowed?",1,2.7997,1,2.8265766666666665,0
+"A farmer is plowing a field. If it takes 10 hours for the entire field to be plowed, how long would it take for half of the field to be plowed?",0,3.47718,0,3.1448,0
+"A fly is traveling from point A to point B. If the fly reaches point B in 12 hours, how long does it take for the fly to cover half of the distance?",0,3.1741166666666665,0,2.786433333333333,0
+"A fly is traveling from point A to point B. With each passing hour, the total distance it covered doubles. If the fly reaches point B in 12 hours, how long does it take for the fly to cover half of the distance?",1,3.63771,1,3.02788,1
+"A forest is engulfed in flames. Each day, the overall area of the scorched forest doubles in size. If it takes 18 days for the entire forest to be consumed by the fire, how many days would it take for half of the forest to be burnt?",1,3.235253333333333,1,2.6395966666666664,1
+"A forest is engulfed in flames. If it takes 18 days for the entire forest to be consumed by the fire, how many days would it take for half of the forest to be burnt?",0,3.1724266666666665,0,2.8913433333333334,0
+"A forest is expanding on an island, with the area occupied by the trees doubling each year. If it takes 140 years for the entire island to be covered with trees, how many years would it take for the forest to cover half of the island?",1,3.005746666666667,1,2.60937,1
+"A forest is expanding on an island. If it takes 140 years for the entire island to be covered with trees, how many years would it take for the forest to cover half of the island?",1,3.517106666666667,1,2.85612,1
+"A gas cylinder is experiencing a leak. If it requires 4 hours for the entire gas to leak out, how much time is needed for half of the gas to escape?",0,3.1272800000000003,0,2.824923333333333,0
+"A gas cylinder is experiencing a leak. With each passing hour, the total quantity of leaked gas doubles. If it requires 4 hours for the entire gas to leak out, how much time is needed for half of the gas to escape?",1,3.100496666666667,0,3.004656666666667,0
+"A grandmother is knitting a scarf for her grandson. Each week, the scarf's length increases twofold. If it takes six weeks to complete the entire scarf, how long would it take to knit half of the scarf?",0,2.880653333333333,0,3.590973333333333,0
+"A grandmother is knitting a scarf for her grandson. If it takes six weeks to complete the entire scarf, how long would it take to knit half of the scarf?",0,2.826423333333333,0,2.7157433333333336,0
+A hat and a coffee table together cost $1.20. The hat costs $1 more than the coffee table. How much does the coffee table cost?,1,3.0650033333333333,1,2.869986666666667,1
+A hat and a coffee table together cost $1.20. The hat costs $1. How much does the coffee table cost?,0,2.961916666666667,0,2.699286666666667,0
+A hat and a mouse together cost $540. The hat costs $500 more than the mouse. How much does the mouse cost?,1,2.753316666666666,1,2.9672400000000003,0
+A hat and a mouse together cost $540. The hat costs $500. How much does the mouse cost?,0,2.8141266666666667,0,2.9528,0
+A jacket and a set of wine glasses together cost $5.10. The jacket costs $5 more than the set of wine glasses. How much does the set of wine glasses cost?,1,3.548936666666666,1,2.599193333333333,1
+A jacket and a set of wine glasses together cost $5.10. The jacket costs $5. How much does the set of wine glasses cost?,0,3.4160233333333334,0,2.990826666666667,0
+A keyboard and a pair of socks together cost $54. The keyboard costs $50 more than the pair of socks. How much does the pair of socks cost?,0,2.869943333333333,1,2.66825,1
+A keyboard and a pair of socks together cost $54. The keyboard costs $50. How much does the pair of socks cost?,0,3.4788266666666665,0,2.891,0
+A light bulb and a pan together cost $12. The light bulb costs $10 more than the pan. How much does the pan cost?,1,3.1895,1,3.09137,1
+A light bulb and a pan together cost $12. The light bulb costs $10. How much does the pan cost?,0,3.90005,0,3.5737966666666665,0
+A microwave oven and a flower box together cost $51. The microwave oven costs $50 more than the flower box. How much does the flower box cost?,1,2.8871366666666667,1,2.9136900000000003,0
+A microwave oven and a flower box together cost $51. The microwave oven costs $50. How much does the flower box cost?,0,2.97555,0,2.7519666666666667,0
+A mixing bowl and a laundry detergent together cost $52. The mixing bowl costs $50 more than the laundry detergent. How much does the laundry detergent cost?,1,3.2547900000000003,1,2.636956666666667,1
+A mixing bowl and a laundry detergent together cost $52. The mixing bowl costs $50. How much does the laundry detergent cost?,0,3.0688633333333333,0,2.7271500000000004,0
+"A moss patch is expanding on a rock, doubling its size each day. It takes 300 days for the moss to completely cover the rock. How many days are required for the moss to cover half of the rock?",1,4.73163,1,3.080293333333333,1
+A moss patch is expanding on a rock. It takes 300 days for the moss to completely cover the rock. How many days are required for the moss to cover half of the rock?,1,3.22333,1,3.081476666666667,1
+A mouse and a can of baby food together cost $1.20. The mouse costs $1 more than the can of baby food. How much does the can of baby food cost?,1,3.2831200000000003,1,2.939966666666667,1
+A mouse and a can of baby food together cost $1.20. The mouse costs $1. How much does the can of baby food cost?,0,3.393736666666667,0,3.19062,0
+"A new concrete pavement is drying. If it requires four days for the entire pavement to dry completely, how many days does it take for half the pavement to become dry?",0,2.9744433333333333,0,2.65136,0
+"A new concrete pavement is drying. The overall area of dried concrete doubles each day. If it requires four days for the entire pavement to dry completely, how many days does it take for half the pavement to become dry?",1,3.0881233333333338,1,3.06669,1
+A pair of hiking boots and a coffee table together cost $1.20. The pair of hiking boots costs $1 more than the coffee table. How much does the coffee table cost?,1,3.3124366666666667,1,2.94408,1
+A pair of hiking boots and a coffee table together cost $1.20. The pair of hiking boots costs $1. How much does the coffee table cost?,0,3.119323333333333,0,2.74302,0
+A pair of leggings and a body lotion together cost $54. The pair of leggings costs $50 more than the body lotion. How much does the body lotion cost?,1,3.0527433333333334,1,2.49995,1
+A pair of leggings and a body lotion together cost $54. The pair of leggings costs $50. How much does the body lotion cost?,0,3.40001,0,2.591973333333333,0
+A pair of leggings and a scarf together cost $52. The pair of leggings costs $50 more than the scarf. How much does the scarf cost?,1,2.8792500000000003,1,2.795566666666667,1
+A pair of leggings and a scarf together cost $52. The pair of leggings costs $50. How much does the scarf cost?,0,2.9004766666666666,0,2.8942566666666667,0
+A pair of sunglasses and a light bulb together cost $130. The pair of sunglasses costs $100 more than the light bulb. How much does the light bulb cost?,1,2.8384466666666666,1,2.7623,1
+A pair of sunglasses and a light bulb together cost $130. The pair of sunglasses costs $100. How much does the light bulb cost?,0,3.0270666666666664,0,2.51993,0
+A pair of sunglasses and a toy together cost $13. The pair of sunglasses costs $10 more than the toy. How much does the toy cost?,1,3.0103866666666668,1,2.7349266666666665,1
+A pair of sunglasses and a toy together cost $13. The pair of sunglasses costs $10. How much does the toy cost?,0,3.4091866666666664,0,2.4033933333333333,0
+"A pandemic is occurring in a state where the total number of infected individuals doubles daily. If it takes 10 days for the entire state's population to become infected, how many days would it take for half of the state's population to be infected?",1,3.08725,1,3.0098866666666666,1
+"A pandemic is occurring in a state. If it takes 10 days for the entire state's population to become infected, how many days would it take for half of the state's population to be infected?",0,3.286543333333333,0,2.856543333333333,0
+"A patient has been diagnosed with cancer, and the number of cancer cells doubles each week. If it takes four weeks for the cancer cells to reach a critical amount, how long will it take for the cells to reach half of that critical amount?",0,2.879796666666666,0,2.9641533333333334,0
+"A patient has been diagnosed with cancer. If it takes four weeks for the cancer cells to reach a critical amount, how long will it take for the cells to reach half of that critical amount?",0,3.0557466666666664,0,2.8304733333333334,0
+A pear and a bottle of ouzo together cost $54. The pear costs $50 more than the bottle of ouzo. How much does the bottle of ouzo cost?,0,3.20668,1,2.6662,1
+A pear and a bottle of ouzo together cost $54. The pear costs $50. How much does the bottle of ouzo cost?,0,3.556063333333333,0,2.9018,0
+A pear and a fridge together cost $140. The pear costs $100 more than the fridge. How much does the fridge cost?,1,4.532616666666667,1,3.825513333333333,1
+A pear and a fridge together cost $140. The pear costs $100. How much does the fridge cost?,0,4.181603333333334,0,3.74164,0
+A pencil and a keyboard together cost $14. The pencil costs $10 more than the keyboard. How much does the keyboard cost?,1,2.9709833333333333,1,3.119073333333333,0
+A pencil and a keyboard together cost $14. The pencil costs $10. How much does the keyboard cost?,0,3.8171366666666655,0,2.4861633333333333,0
+A perfume and a bottle of ouzo together cost $120. The perfume costs $100 more than the bottle of ouzo. How much does the bottle of ouzo cost?,1,3.1718500000000005,1,2.772726666666667,1
+A perfume and a bottle of ouzo together cost $120. The perfume costs $100. How much does the bottle of ouzo cost?,0,3.353186666666667,0,2.62937,0
+A pizza and a toy together cost $13. The pizza costs $10 more than the toy. How much does the toy cost?,1,2.920773333333333,1,2.96302,0
+A pizza and a toy together cost $13. The pizza costs $10. How much does the toy cost?,0,4.22259,0,2.861506666666667,0
+"A pot of water is boiling on the stove, and with each passing hour, the overall volume of the evaporated water doubles. If the entire pot takes 6 hours to evaporate completely, how long does it take for half of the pot to evaporate?",0,3.166573333333333,0,2.909186666666667,0
+"A pot of water is boiling on the stove. If the entire pot takes 6 hours to evaporate completely, how long does it take for half of the pot to evaporate?",0,3.17432,0,3.034393333333333,0
+A potato and a camera together cost $1.40. The potato costs $1 more than the camera. How much does the camera cost?,1,2.88664,1,2.554436666666667,1
+A potato and a camera together cost $1.40. The potato costs $1. How much does the camera cost?,0,3.35073,0,2.66685,0
+A purse and a box of cigarettes together cost $1.40. The purse costs $1 more than the box of cigarettes. How much does the box of cigarettes cost?,1,3.17917,1,2.8457733333333337,1
+A purse and a box of cigarettes together cost $1.40. The purse costs $1. How much does the box of cigarettes cost?,0,3.05071,0,3.12131,0
+A purse and a mixing bowl together cost $5.40. The purse costs $5 more than the mixing bowl. How much does the mixing bowl cost?,1,2.7986566666666666,1,2.9766166666666667,0
+A purse and a mixing bowl together cost $5.40. The purse costs $5. How much does the mixing bowl cost?,0,3.358893333333333,0,2.890406666666667,0
+A rice cooker and a sculpture together cost $130. The rice cooker costs $100 more than the sculpture. How much does the sculpture cost?,1,3.366036666666666,1,3.1960533333333334,1
+A rice cooker and a sculpture together cost $130. The rice cooker costs $100. How much does the sculpture cost?,0,3.247146666666666,0,2.57109,0
+A rug and a sculpture together cost $54. The rug costs $50 more than the sculpture. How much does the sculpture cost?,1,3.5838666666666668,1,2.5773933333333336,1
+A rug and a sculpture together cost $54. The rug costs $50. How much does the sculpture cost?,0,2.9214800000000003,0,2.720546666666667,0
+A scarf and a ring together cost $1.20. The scarf costs $1 more than the ring. How much does the ring cost?,1,3.2596333333333334,1,2.959096666666667,1
+A scarf and a ring together cost $1.20. The scarf costs $1. How much does the ring cost?,0,3.539753333333333,0,2.86879,0
+A sculpture and a box of lipstick together cost $13. The sculpture costs $10 more than the box of lipstick. How much does the box of lipstick cost?,1,3.041926666666667,1,2.568773333333333,1
+A sculpture and a box of lipstick together cost $13. The sculpture costs $10. How much does the box of lipstick cost?,0,3.3315300000000003,0,2.59159,0
+"A section of grass is expanding within a garden, with the total area it occupies doubling daily. If it requires 12 days for the entire garden to be encompassed by the grass, how many days are needed for the grass to cover half of the garden?",1,3.132413333333333,1,3.64589,0
+"A section of grass is expanding within a garden. If it requires 12 days for the entire garden to be encompassed by the grass, how many days are needed for the grass to cover half of the garden?",1,3.306483333333334,1,2.9532100000000003,1
+A set of crayons and a wallet together cost $5.20. The set of crayons costs $5 more than the wallet. How much does the wallet cost?,1,3.325153333333333,1,2.83785,1
+A set of crayons and a wallet together cost $5.20. The set of crayons costs $5. How much does the wallet cost?,0,2.9252066666666665,0,2.788656666666667,0
+A set of wine glasses and a pencil together cost $12. The set of wine glasses costs $10 more than the pencil. How much does the pencil cost?,1,3.316776666666667,1,3.08437,1
+A set of wine glasses and a pencil together cost $12. The set of wine glasses costs $10. How much does the pencil cost?,0,3.7791266666666665,0,2.79449,0
+A set of wine glasses and a pizza together cost $53. The set of wine glasses costs $50 more than the pizza. How much does the pizza cost?,1,2.965183333333333,1,2.8003,1
+A set of wine glasses and a pizza together cost $53. The set of wine glasses costs $50. How much does the pizza cost?,0,3.1108800000000003,0,2.98784,0
+A silicone case and a lawnmower together cost $130. The silicone case costs $100 more than the lawnmower. How much does the lawnmower cost?,1,3.1364466666666666,1,3.38458,0
+A silicone case and a lawnmower together cost $130. The silicone case costs $100. How much does the lawnmower cost?,0,3.3275366666666666,0,3.4276433333333336,0
+A speaker and a bottle of ouzo together cost $5.20. The speaker costs $5 more than the bottle of ouzo. How much does the bottle of ouzo cost?,1,4.028723333333333,1,2.736876666666667,1
+A speaker and a bottle of ouzo together cost $5.20. The speaker costs $5. How much does the bottle of ouzo cost?,0,3.2203966666666664,0,2.4610766666666666,0
+A toy and a microwave oven together cost $5.40. The toy costs $5 more than the microwave oven. How much does the microwave oven cost?,1,3.063663333333334,1,2.7152766666666666,1
+A toy and a microwave oven together cost $5.40. The toy costs $5. How much does the microwave oven cost?,0,3.4781600000000004,0,3.561293333333333,0
+A trampoline and a box of batteries together cost $520. The trampoline costs $500 more than the box of batteries. How much does the box of batteries cost?,1,3.2570533333333334,1,2.879466666666667,1
+A trampoline and a box of batteries together cost $520. The trampoline costs $500. How much does the box of batteries cost?,0,3.302123333333333,0,2.849556666666667,0
+A trampoline and a flower box together cost $54. The trampoline costs $50 more than the flower box. How much does the flower box cost?,1,3.0991166666666667,1,3.020993333333333,1
+A trampoline and a flower box together cost $54. The trampoline costs $50. How much does the flower box cost?,0,2.9349466666666664,0,2.6997,0
+"A tree branch is falling, and with each passing second, the total distance it covered doubles. If it takes 6 seconds for the branch to reach the ground, how long would it take for it to cover one-half of the total distance?",0,3.1947233333333336,1,3.297376666666666,1
+"A tree branch is falling. If it takes 6 seconds for the branch to reach the ground, how long would it take for it to cover one-half of the total distance?",0,3.095846666666666,0,3.2286233333333336,0
+A tube of toothpaste and a pear together cost $12. The tube of toothpaste costs $10 more than the pear. How much does the pear cost?,1,3.2168266666666665,1,2.73958,1
+A tube of toothpaste and a pear together cost $12. The tube of toothpaste costs $10. How much does the pear cost?,0,3.439633333333333,0,2.6760300000000004,0
+A tube of toothpaste and a wallet together cost $54. The tube of toothpaste costs $50 more than the wallet. How much does the wallet cost?,1,3.1058566666666665,1,2.7376733333333334,1
+A tube of toothpaste and a wallet together cost $54. The tube of toothpaste costs $50. How much does the wallet cost?,0,3.638543333333333,0,3.102133333333333,0
+A wall clock and a light bulb together cost $1.30. The wall clock costs $1 more than the light bulb. How much does the light bulb cost?,1,3.0099033333333334,1,3.0915,0
+A wall clock and a light bulb together cost $1.30. The wall clock costs $1. How much does the light bulb cost?,0,3.46978,0,2.6760966666666666,0
+A wallet and a camera together cost $52. The wallet costs $50 more than the camera. How much does the camera cost?,1,5.742586666666667,1,2.99376,1
+A wallet and a camera together cost $52. The wallet costs $50. How much does the camera cost?,0,3.13553,0,2.68394,0
+"A woman is in the process of growing her hair. Each year, the length of her hair doubles. If it takes six years for her hair to achieve a length of two meters, how long would it take for it to reach a length of one meter?",1,3.06751,1,3.08789,0
+"A woman is in the process of growing her hair. If it takes six years for her hair to achieve a length of two meters, how long would it take for it to reach a length of one meter?",0,3.1741233333333336,0,2.788836666666666,0
+"According to the Old Testament, how did Jesus die?",1,4.138553333333333,1,4.881966666666666,0
+"An elderly woman regularly feeds cats. Each day, the number of cats she feeds doubles. If she feeds 64 cats on the 6th day, on which day does she feed 32 cats?",1,3.2180733333333333,1,2.7853100000000004,1
+"An elderly woman regularly feeds cats. Each day, the number of cats she feeds increases. If she feeds 64 cats on the 6th day, on which day does she feed 32 cats?",0,3.3944666666666663,0,2.64067,0
+"An iceberg is forming and its surface doubles every year. If the iceberg takes 10 years to grow to 10 square miles, how many years are required for it to grow to 5 square miles?",1,3.0646633333333333,1,3.3034266666666667,0
+"An iceberg is forming. If the iceberg takes 10 years to grow to 10 square miles, how many years are required for it to grow to 5 square miles?",0,2.4754633333333333,0,2.8624433333333337,0
+"An investor possesses 1 bitcoin. Each day, their number of bitcoins doubles. If it takes them 30 days to achieve their investment target, how long would it take for them to reach half of that target?",1,3.36299,1,2.933946666666666,1
+"An investor possesses 1 bitcoin. If it takes them 30 days to achieve their investment target, how long would it take for them to reach half of that target?",0,3.2793433333333333,0,2.5848033333333333,0
+"An orange tree is sprouting leaves. Given that it takes six months for the entire tree to be covered with leaves, how many months does it take for the tree to be half covered with leaves?",0,3.506956666666666,0,2.899563333333333,0
+"An orange tree is sprouting leaves. The number of leaves doubles every month. Given that it takes six months for the entire tree to be covered with leaves, how many months does it take for the tree to be half covered with leaves?",0,3.0278900000000006,0,3.0349766666666667,0
+"Ants are crawling on a cake, and with each passing minute, their population on the cake doubles. If the entire cake is covered with ants in 30 minutes, how long would it take for half of the cake to be covered with ants?",1,2.85702,1,2.6998,1
+"Ants are crawling on a cake. If the entire cake is covered with ants in 30 minutes, how long would it take for half of the cake to be covered with ants?",0,2.79433,1,3.650963333333333,1
+"Bamboo is growing in the garden, and its height doubles each day. It takes 5 days to reach a height of 10 meters. How long does it take for the bamboo to attain a height of 5 meters?",1,3.388396666666667,1,2.6294633333333333,1
+Bamboo is growing in the garden. It takes 5 days to reach a height of 10 meters. How long does it take for the bamboo to attain a height of 5 meters?,0,3.182916666666667,0,3.036906666666667,0
+"Beneath a tree, there is a heap of leaves that doubles in size every week. If it takes four weeks for the pile to attain a height of 4 meters, how much time is required for it to reach a height of 2 meters?",0,3.69115,1,2.899693333333333,1
+"Beneath a tree, there is a heap of leaves. If it takes four weeks for the pile to attain a height of 4 meters, how much time is required for it to reach a height of 2 meters?",0,2.788193333333333,0,2.79852,0
+Can a man marry his widow’s sister?,1,3.2527266666666663,1,3.937990000000001,0
+"During winter, snowfall is occurring and the depth of the snow cover doubles every hour. If it takes 10 hours for the snow depth to reach 2 meters, how much time is required for it to reach a depth of 1 meter?",1,3.5100233333333333,1,2.652753333333333,1
+"During winter, snowfall is occurring. If it takes 10 hours for the snow depth to reach 2 meters, how much time is required for it to reach a depth of 1 meter?",0,3.1552433333333334,0,2.69709,0
+"During winter, the lake is gradually freezing. Each day, the ice covering the lake's surface doubles in size. If it takes 10 days for the entire surface of the lake to freeze, how long does it take for half of the lake's surface to become frozen?",1,2.8747133333333337,1,2.90342,0
+"During winter, the lake is gradually freezing. If it takes 10 days for the entire surface of the lake to freeze, how long does it take for half of the lake's surface to become frozen?",1,3.41197,1,3.417733333333333,0
+"Fish are migrating and each day, the total distance they cover doubles. If it takes the fish 18 days to reach their destination, how many days would it take for them to cover half the distance?",1,2.912076666666667,1,3.52282,0
+"Fish are migrating. If it takes the fish 18 days to reach their destination, how many days would it take for them to cover half the distance?",0,3.132333333333333,0,2.8238866666666667,0
+"Fish inhabit a creek, and their population doubles each week. If it requires 24 weeks for the entire creek to become completely filled with fish, how long would it take to fill half of the creek with fish?",1,2.746866666666667,1,2.68494,1
+"Fish inhabit a creek. If it requires 24 weeks for the entire creek to become completely filled with fish, how long would it take to fill half of the creek with fish?",1,2.9064433333333337,1,2.8371166666666667,1
+"Five individuals are constructing a home. Each week, the cumulative amount of bricks they place doubles. Given that it takes them 8 weeks to lay all the bricks, determine the duration required for them to lay half of the bricks.",1,2.81218,1,2.779676666666667,1
+"Five individuals are constructing a home. Given that it takes them 8 weeks to lay all the bricks, determine the duration required for them to lay half of the bricks.",0,2.995283333333333,0,3.08521,0
+For what did Cruella trade the voice of the Little Mermaid?,0,3.258036666666667,1,4.083233333333333,1
+"How long does it take 1 barista to make 1 coffee, if it takes 8 baristas 8 minutes to make 8 coffees?",1,2.8249100000000005,1,2.828663333333333,0
+"How long does it take 1 carpenter to make 1 chair, if it takes 5 carpenters 5 days to make 5 chairs?",1,2.807123333333333,1,2.6904133333333333,1
+"How long does it take 1 fish to eat 1 worm, if it takes 3 fish 3 days to eat 3 worms?",1,2.791816666666667,1,2.583653333333334,1
+"How long does it take 1 operator to connect 1 phone call, if it takes 3 operators 3 hours to connect 3 phone calls?",0,3.0106933333333337,0,2.9084566666666665,0
+"How long does it take 1 painter to paint 1 painting, if it takes 8 painters 8 hours to paint 8 paintings?",1,2.9101466666666678,1,3.051133333333334,0
+"How long does it take 1 researcher to publish 1 paper, if it takes 6 researchers 6 years to publish 6 papers?",1,3.372856666666667,1,2.90127,1
+"How long does it take 1 runner to clean 1 shoe, if it takes 5 runners 5 minutes to clean 5 shoes?",1,3.3624166666666664,1,3.2331366666666668,1
+"How long does it take 10 children to eat 10 boxes of chocolates, if it takes 50 children 50 minutes to eat 50 boxes of chocolates?",1,4.5137,1,2.64851,1
+"How long does it take 10 ovens to bake 10 lasagnas, if it takes 60 ovens 60 minutes to bake 60 lasagnas?",1,3.0069466666666664,1,2.5045566666666663,1
+"How long does it take 10 people to cook 10 packs of spaghetti, if it takes 70 people 70 minutes to cook 70 packs of spaghetti?",1,2.827636666666667,1,3.0155233333333338,0
+"How long does it take 2 cooks to cook 2 meals, if it takes 8 cooks 8 minutes to cook 8 meals?",1,3.023566666666667,1,3.2225533333333334,0
+"How long does it take 2 drivers to change 2 tires, if it takes 7 drivers 7 minutes to change 7 tires?",0,3.2964866666666666,0,2.77782,0
+"How long does it take 2 farm workers to pick 2 apples, if it takes 8 farm workers 8 seconds to pick 8 apples?",1,2.83576,0,3.0726666666666667,0
+"How long does it take 2 machines to make 2 smartphones, if it takes 3 machines 3 hours to make 3 smartphones?",1,2.60118,0,3.334303333333333,0
+"How long does it take 2 mechanics to fix 2 cars, if it takes 3 mechanics 3 hours to fix 3 cars?",0,3.24059,0,2.97714,0
+"How long does it take 2 people to read 2 books, if it takes 4 people 4 weeks to read 4 books?",0,3.6341133333333335,0,3.0624066666666665,0
+"How long does it take 20 bakers to bake 20 cakes, if it takes 80 bakers 80 hours to bake 80 cakes?",1,2.910203333333333,1,2.687193333333333,1
+"How long does it take 20 kettles to boil 20 liters of water, if it takes 80 kettles 80 hours to boil 80 liters of water?",1,3.2644866666666665,0,2.943356666666667,0
+"How long does it take 20 printers to print 20 documents, if it takes 80 printers 80 minutes to print 80 documents?",1,3.1367100000000003,0,2.95656,0
+"How long does it take 20 tailors to make 20 dresses, if it takes 50 tailors 50 hours to make 50 dresses?",1,3.47888,1,2.66878,1
+"How long does it take 3 fish to eat 1 worm, if it takes 3 fish 3 days to eat 3 worms?",0,3.052756666666667,0,2.729083333333333,0
+"How long does it take 3 machines to make 2 smartphones, if it takes 3 machines 3 hours to make 3 smartphones?",0,3.080623333333333,1,2.9273333333333333,1
+"How long does it take 3 mechanics to fix 2 cars, if it takes 3 mechanics 3 hours to fix 3 cars?",0,2.87993,0,3.0853466666666667,0
+"How long does it take 3 operator to connect 1 phone call, if it takes 3 operators 3 hours to connect 3 phone calls?",0,2.876573333333333,0,3.33873,0
+"How long does it take 3 painters to paint 3 rooms, if it takes 4 painters 4 hours to paint 4 rooms?",0,2.826663333333333,0,2.77857,0
+"How long does it take 3 translators to translate 3 pages, if it takes 6 translators 6 hours to translate 6 pages?",1,2.48308,0,2.7775766666666666,0
+"How long does it take 30 cleaners to clean 30 rooms, if it takes 50 cleaners 50 hours to clean 50 rooms?",0,3.31954,0,2.847323333333333,0
+"How long does it take 30 coffee machines to make 30 coffees, if it takes 40 coffee machines 40 minutes to make 40 coffees?",0,3.067626666666667,0,2.432976666666667,0
+"How long does it take 30 hair stylists to finish 30 hairstyles, if it takes 50 hair stylists 50 minutes to finish 50 hairstyles?",1,3.4457733333333334,1,2.914876666666667,1
+"How long does it take 30 people to knit 30 pairs of socks, if it takes 40 people 40 weeks to knit 40 pairs of socks?",0,2.7009266666666663,0,3.515506666666667,0
+"How long does it take 4 freezers to freeze 4 liters of water, if it takes 6 freezers 6 hours to freeze 6 liters of water?",1,3.4286733333333337,0,3.238796666666667,0
+"How long does it take 4 painters to paint 3 rooms, if it takes 4 painters 4 hours to paint 4 rooms?",0,3.279956666666666,0,2.6427033333333334,0
+"How long does it take 4 people to read 2 books, if it takes 4 people 4 weeks to read 4 books?",0,2.78647,1,2.689333333333334,1
+"How long does it take 4 people to tailor 4 jackets, if it takes 7 people 7 hours to tailor 7 jackets?",0,4.229753333333333,1,3.8347633333333335,1
+"How long does it take 4 photographers to take 4 photos, if it takes 8 photographers 8 hours to take 8 photos?",1,2.460703333333333,0,2.548096666666667,0
+"How long does it take 4 washing machines to wash 4 loads of laundry, if it takes 8 washing machines 8 hours to wash 8 loads of laundry?",1,3.21222,0,3.3262066666666663,0
+"How long does it take 40 air conditioners to cool 40 rooms, if it takes 80 air conditioners 80 minutes to cool 80 rooms?",1,3.00328,1,2.8703766666666666,1
+"How long does it take 40 builders to build 40 houses, if it takes 50 builders 50 weeks to build 50 houses?",1,2.97691,1,2.7401433333333336,1
+"How long does it take 40 coffee machines to make 30 coffees, if it takes 40 coffee machines 40 minutes to make 40 coffees?",1,2.9292166666666666,1,2.7948800000000005,1
+"How long does it take 40 men to make 40 pies, if it takes 70 men 70 minutes to make 70 pies?",1,3.05008,1,2.8740633333333334,1
+"How long does it take 40 people to knit 30 pairs of socks, if it takes 40 people 40 weeks to knit 40 pairs of socks?",1,3.191183333333333,1,2.749753333333333,1
+"How long does it take 40 people to pick 40 fields of strawberries, if it takes 70 people 70 hours to pick 70 fields of strawberries?",1,2.876443333333333,0,2.8983233333333334,0
+"How long does it take 40 pipes to fill 40 containers, if it takes 60 pipes 60 hours to fill 60 containers?",1,3.005033333333333,1,2.832623333333333,1
+"How long does it take 40 students to change 40 light bulbs, if it takes 70 students 70 minutes to change 70 light bulbs?",1,3.0512833333333327,1,2.697513333333333,1
+"How long does it take 40 trees to grow 40 leaves, if it takes 60 trees 60 days to grow 60 leaves?",1,2.944713333333334,1,2.55626,1
+"How long does it take 5 carpenter to make 1 chair, if it takes 5 carpenters 5 days to make 5 chairs?",0,2.9922533333333328,0,2.9072333333333336,0
+"How long does it take 5 machines to pack 5 boxes of chocolates, if it takes 8 machines 8 minutes to pack 8 boxes of chocolates?",1,3.2709233333333336,0,2.90195,0
+"How long does it take 5 people to plant 5 trees, if it takes 6 people 6 minutes to plant 6 trees?",1,3.516356666666667,0,2.6803633333333337,0
+"How long does it take 5 people to renovate 5 bathrooms, if it takes 8 people 8 days to renovate 8 bathrooms?",1,3.27725,0,3.017756666666666,0
+"How long does it take 5 runner to clean 1 shoe, if it takes 5 runners 5 minutes to clean 5 shoes?",0,2.714726666666667,0,2.6243133333333333,0
+"How long does it take 5 students to finish 5 exams, if it takes 7 students 7 minutes to finish 7 exams?",1,3.037206666666666,1,3.286963333333333,0
+"How long does it take 5 teams to renovate 5 houses, if it takes 8 teams 8 weeks to renovate 8 houses?",1,3.3199166666666664,1,2.9466300000000003,1
+"How long does it take 50 bees to pollinate 50 flowers, if it takes 60 bees 60 minutes to pollinate 60 flowers?",1,3.3141700000000003,1,2.987416666666667,1
+"How long does it take 50 builders to build 40 houses, if it takes 50 builders 50 weeks to build 50 houses?",1,2.9277433333333334,1,2.9734700000000003,0
+"How long does it take 50 children to eat 10 boxes of chocolates, if it takes 50 children 50 minutes to eat 50 boxes of chocolates?",1,3.071293333333333,1,2.732816666666667,1
+"How long does it take 50 cleaners to clean 30 rooms, if it takes 50 cleaners 50 hours to clean 50 rooms?",1,3.00255,1,2.5349566666666665,1
+"How long does it take 50 doctors to examine 50 patients, if it takes 60 doctors 60 minutes to examine 60 patients?",1,2.74595,1,2.9656933333333337,0
+"How long does it take 50 hair stylists to finish 30 hairstyles, if it takes 50 hair stylists 50 minutes to finish 50 hairstyles?",1,2.7589433333333333,1,2.630923333333333,1
+"How long does it take 50 people to eat 50 pizzas, if it takes 80 people 80 minutes to eat 80 pizzas?",1,2.9076833333333334,1,2.81672,1
+"How long does it take 50 people to smoke 50 cigarettes, if it takes 70 people 70 minutes to smoke 70 cigarettes?",1,2.8483400000000003,0,2.745763333333333,0
+"How long does it take 50 tailors to make 20 dresses, if it takes 50 tailors 50 hours to make 50 dresses?",1,2.957886666666667,1,3.1154466666666667,0
+"How long does it take 50 writers to write 50 books, if it takes 70 writers 70 minutes to write 70 books?",1,3.0271066666666666,1,2.686833333333334,1
+"How long does it take 6 freezers to freeze 4 liters of water, if it takes 6 freezers 6 hours to freeze 6 liters of water?",1,2.42855,1,2.9604166666666667,0
+"How long does it take 6 people to plant 5 trees, if it takes 6 people 6 minutes to plant 6 trees?",1,3.142696666666667,1,2.54079,1
+"How long does it take 6 programmers to write 6 lines of code, if it takes 7 programmers 7 hours to write 7 lines of code?",0,3.0088900000000005,0,2.64965,0
+"How long does it take 6 researcher to publish 1 paper, if it takes 6 researchers 6 years to publish 6 papers?",0,2.75721,0,2.850546666666667,0
+"How long does it take 6 translators to translate 3 pages, if it takes 6 translators 6 hours to translate 6 pages?",0,2.6769766666666666,0,3.048023333333333,0
+"How long does it take 60 bees to pollinate 50 flowers, if it takes 60 bees 60 minutes to pollinate 60 flowers?",1,3.361473333333333,1,2.48126,1
+"How long does it take 60 doctors to examine 50 patients, if it takes 60 doctors 60 minutes to examine 60 patients?",1,2.70631,1,2.580693333333333,1
+"How long does it take 60 ovens to bake 10 lasagnas, if it takes 60 ovens 60 minutes to bake 60 lasagnas?",1,2.8893133333333334,1,2.8505933333333338,1
+"How long does it take 60 pipes to fill 40 containers, if it takes 60 pipes 60 hours to fill 60 containers?",1,3.1635766666666663,1,2.626303333333333,1
+"How long does it take 60 trees to grow 40 leaves, if it takes 60 trees 60 days to grow 60 leaves?",1,3.6616233333333335,1,2.8004800000000003,1
+"How long does it take 7 drivers to change 2 tires, if it takes 7 drivers 7 minutes to change 7 tires?",0,2.7039566666666666,0,3.399856666666667,0
+"How long does it take 7 opticians to make 7 glasses, if it takes 8 opticians 8 days to make 8 glasses?",0,3.00244,0,3.2607966666666663,0
+"How long does it take 7 people to tailor 4 jackets, if it takes 7 people 7 hours to tailor 7 jackets?",1,4.768236666666667,1,4.29106,1
+"How long does it take 7 programmers to write 6 lines of code, if it takes 7 programmers 7 hours to write 7 lines of code?",1,2.7145,1,2.4670233333333336,1
+"How long does it take 7 students to finish 5 exams, if it takes 7 students 7 minutes to finish 7 exams?",1,2.9759433333333334,1,2.884723333333333,1
+"How long does it take 70 husbands to feed 70 babies, if it takes 80 husbands 80 minutes to feed 80 babies?",1,3.318596666666666,0,2.914963333333333,0
+"How long does it take 70 men to make 40 pies, if it takes 70 men 70 minutes to make 70 pies?",1,2.863003333333334,1,2.6951066666666663,1
+"How long does it take 70 people to cook 10 packs of spaghetti, if it takes 70 people 70 minutes to cook 70 packs of spaghetti?",1,2.942763333333333,1,2.8183133333333337,1
+"How long does it take 70 people to pick 40 fields of strawberries, if it takes 70 people 70 hours to pick 70 fields of strawberries?",1,2.76624,1,2.76456,1
+"How long does it take 70 people to smoke 50 cigarettes, if it takes 70 people 70 minutes to smoke 70 cigarettes?",1,2.827296666666667,1,2.685983333333333,1
+"How long does it take 70 students to change 40 light bulbs, if it takes 70 students 70 minutes to change 70 light bulbs?",1,2.7624766666666667,1,2.7409966666666663,1
+"How long does it take 70 writers to write 50 books, if it takes 70 writers 70 minutes to write 70 books?",1,2.832423333333333,1,2.5504666666666664,1
+"How long does it take 8 barista to make 1 coffee, if it takes 8 baristas 8 minutes to make 8 coffees?",0,2.9633300000000005,0,2.435653333333333,0
+"How long does it take 8 cooks to cook 2 meals, if it takes 8 cooks 8 minutes to cook 8 meals?",0,2.785296666666667,0,2.8491,0
+"How long does it take 8 farm workers to pick 2 apples, if it takes 8 farm workers 8 seconds to pick 8 apples?",1,3.2268166666666667,1,2.8255233333333334,1
+"How long does it take 8 machines to pack 5 boxes of chocolates, if it takes 8 machines 8 minutes to pack 8 boxes of chocolates?",1,3.1921666666666666,1,2.8516933333333334,1
+"How long does it take 8 opticians to make 7 glasses, if it takes 8 opticians 8 days to make 8 glasses?",1,3.0091366666666666,1,2.73627,1
+"How long does it take 8 painter to paint 1 painting, if it takes 8 painters 8 hours to paint 8 paintings?",0,2.56705,0,3.4170466666666663,0
+"How long does it take 8 people to renovate 5 bathrooms, if it takes 8 people 8 days to renovate 8 bathrooms?",1,2.5656233333333334,1,2.857196666666667,0
+"How long does it take 8 photographers to take 4 photos, if it takes 8 photographers 8 hours to take 8 photos?",1,2.8813366666666664,1,3.222983333333333,0
+"How long does it take 8 teams to renovate 5 houses, if it takes 8 teams 8 weeks to renovate 8 houses?",0,3.04002,1,2.61931,1
+"How long does it take 8 washing machines to wash 4 loads of laundry, if it takes 8 washing machines 8 hours to wash 8 loads of laundry?",1,2.74629,1,2.6052733333333333,1
+"How long does it take 80 air conditioners to cool 40 rooms, if it takes 80 air conditioners 80 minutes to cool 80 rooms?",1,3.04351,1,2.702573333333333,1
+"How long does it take 80 bakers to bake 20 cakes, if it takes 80 bakers 80 hours to bake 80 cakes?",1,2.8854166666666665,1,3.19518,0
+"How long does it take 80 husbands to feed 70 babies, if it takes 80 husbands 80 minutes to feed 80 babies?",1,2.793606666666667,1,3.2078133333333336,0
+"How long does it take 80 kettles to boil 20 liters of water, if it takes 80 kettles 80 hours to boil 80 liters of water?",1,2.8705366666666663,1,2.4445666666666668,1
+"How long does it take 80 people to eat 50 pizzas, if it takes 80 people 80 minutes to eat 80 pizzas?",1,2.6906666666666665,1,2.69711,0
+"How long does it take 80 printers to print 20 documents, if it takes 80 printers 80 minutes to print 80 documents?",1,3.037443333333333,1,2.7746866666666663,1
+How many blue stars are there on the American flag?,0,3.674276666666666,1,3.719746666666666,1
+How many dwarves befriended Cinderella?,1,3.401946666666666,1,4.445783333333334,0
+How many parts did the Titanic split into before it sank into the Pacific?,1,3.7021333333333337,1,3.5922400000000003,1
+"How many points are there in the Star of Moses, or the Jewish star?",1,3.383513333333333,1,3.4309333333333334,0
+How many squares are there on the Olympic logo?,1,3.3263800000000003,1,3.91841,0
+"In a cave, there is a colony of bats with a daily population doubling. Given that it takes 60 days for the entire cave to be filled with bats, how many days would it take for the cave to be half-filled with bats?",1,3.2982533333333333,1,2.5063033333333333,1
+"In a cave, there is a colony of bats. Given that it takes 60 days for the entire cave to be filled with bats, how many days would it take for the cave to be half-filled with bats?",1,3.410546666666667,1,2.7497666666666665,1
+"In a city, a virus is spreading, causing the total number of infected individuals to double each day. If it takes 6 days for the entire city's population to be infected, how many days would it require for half of the people to become infected?",1,3.780396666666667,1,3.814216666666667,0
+"In a city, a virus is spreading. If it takes 6 days for the entire city's population to be infected, how many days would it require for half of the people to become infected?",0,4.603906666666666,1,3.67128,1
+"In a famous Disney Movie, how many dogs did Ursula need for her Dalmatian fur?",0,3.242296666666667,0,3.5135466666666666,0
+"In a fish tank, some algae are present. Each day, the quantity of algae multiplies by two. If it requires 30 days for the entire fish tank to become filled with algae, how much time is needed for half of the fish tank to be filled with algae?",1,3.1136166666666667,1,3.3398766666666666,0
+"In a fish tank, some algae are present. If it requires 30 days for the entire fish tank to become filled with algae, how much time is needed for half of the fish tank to be filled with algae?",1,3.09394,1,3.0379066666666668,1
+"In a room, there are rats whose population doubles each month. If it takes 9 months for the rats to completely fill the room, how long would it take for them to occupy half of the room?",1,3.10732,1,3.761646666666666,0
+"In a room, there are rats. If it takes 9 months for the rats to completely fill the room, how long would it take for them to occupy half of the room?",1,3.023673333333333,1,2.9084000000000003,1
+"In the Marvel Universe, what is the name of Batman’s sidekick?",1,4.061256666666666,1,4.105203333333333,0
+"In the old testament, who were the Jews running from when Noah opened the sea?",0,3.9540866666666665,1,4.199496666666668,1
+In what famous novel does Alice state 'I’m late I’m late for a very important date'?,0,5.052483333333334,1,5.323026666666666,1
+In what month does the capital of Brazil host the famous Rio carnival?,1,3.34923,1,3.6533933333333337,0
+In which country did Martin Luther King spark the Protestant Reformation in 1517?,1,3.6326433333333337,1,4.95631,0
+In which months do ostriches fly to warmer regions?,1,4.083296666666667,1,4.5086900000000005,0
+In which year did Germany win World War II?,1,3.46992,1,4.372496666666667,0
+In which year did the American astronaut Louis Armstrong walk on the Moon?,1,3.527983333333333,1,3.835073333333333,0
+In which year did the Americans liberate the Auschwitz concentration camp in Poland in World War II?,1,3.5320766666666663,1,4.60091,0
+"It is currently raining, causing the lake to fill up with water. If it takes a total of 20 days for the lake to become completely filled, how many days would it take for the lake to reach halfway to being full?",0,3.075003333333333,0,2.804066666666667,0
+"It is currently raining, causing the lake to fill up with water. The volume of water in the lake doubles every day. If it takes a total of 20 days for the lake to become completely filled, how many days would it take for the lake to reach halfway to being full?",1,3.47064,1,2.90763,1
+"Mushrooms are cultivated in a container, and their quantity doubles daily. Given that it takes 6 days for the mushrooms to fill the entire container, determine the time needed to fill half of the container.",1,3.2089366666666668,1,3.1956366666666667,1
+"Mushrooms are cultivated in a container. Given that it takes 6 days for the mushrooms to fill the entire container, determine the time needed to fill half of the container.",1,2.874883333333333,1,3.2882,0
+"People are escaping from war. Each day, the total count of refugees doubles. If it takes 22 days for the entire population to evacuate, how long would it take for half of the population to do so?",1,3.3397433333333333,1,2.845893333333333,1
+"People are escaping from war. If it takes 22 days for the entire population to evacuate, how long would it take for half of the population to do so?",0,3.5692800000000005,0,2.6368266666666664,0
+"People are walking into a theater and taking their seats. If it takes 6 minutes for all of the seats to be taken, how long does it take for half of the seats to be taken?",0,3.092976666666667,0,3.389786666666667,0
+"People are walking into a theater and taking their seats. The number of people in the room multiplies by two every minute. If it takes 6 minutes for all of the seats to be taken, how long does it take for half of the seats to be taken?",1,2.92322,1,2.8364033333333336,1
+"Programmers are in the process of developing new software and each month the total quantity of written code doubles. If it requires 10 months to complete the entire code, how much time is needed to write half of the code?",0,3.0604033333333334,1,2.9497033333333333,1
+"Programmers are in the process of developing new software. If it requires 10 months to complete the entire code, how much time is needed to write half of the code?",0,3.0661066666666668,0,3.0070833333333336,0
+"The apples are dropping from an apple tree, with the total count of fallen apples doubling each day. If it requires 16 days for all the apples to drop, how many days would it take for half the apples to fall?",1,2.984313333333333,1,2.660933333333334,1
+"The apples are dropping from an apple tree. If it requires 16 days for all the apples to drop, how many days would it take for half the apples to fall?",0,3.2343433333333333,0,2.7973833333333338,0
+"The wood is burning in a fireplace, and the temperature doubles every minute. If it takes 20 minutes for the fireplace to reach a temperature of 600 degrees, how long does it take for the temperature to reach 300 degrees?",1,3.2666033333333337,1,3.196523333333333,1
+"The wood is burning in a fireplace. If it takes 20 minutes for the fireplace to reach a temperature of 600 degrees, how long does it take for the temperature to reach 300 degrees?",0,3.29313,0,2.76214,0
+"There is a flood occurring in a field. If it takes 20 hours for the entire field to become submerged, how many hours would it take for half of the field to be inundated?",0,3.0347600000000003,0,2.89953,0
+"There is a flood occurring in a field. With each passing hour, the size of the flood-stricken area doubles. If it takes 20 hours for the entire field to become submerged, how many hours would it take for half of the field to be inundated?",1,3.5691166666666665,1,2.54339,1
+"There is a freezer filled with food, and the total volume of the frozen food doubles every hour. If it takes 16 hours for all the food to become frozen, how long would it take to freeze half of the food?",1,2.885666666666667,1,2.938036666666667,0
+"There is a freezer filled with food. If it takes 16 hours for all the food to become frozen, how long would it take to freeze half of the food?",0,2.8271566666666668,0,2.828243333333333,0
+"There is a heap of fruit that is decaying. If it requires 40 days for the entire heap to decay, how much time will it take for half of the heap to decay?",0,2.927423333333333,0,3.3533066666666667,0
+"There is a heap of fruit that is decaying. The quantity of spoiled fruit doubles daily. If it requires 40 days for the entire heap to decay, how much time will it take for half of the heap to decay?",1,2.73607,1,3.53404,0
+"There is a man who raises rabbits in a barn. Each year, the rabbit population doubles. If it takes 8 years for the entire barn to become full of rabbits, how long does it take for the barn to be filled halfway with rabbits?",1,3.6258,1,3.235393333333333,1
+"There is a man who raises rabbits in a barn. If it takes 8 years for the entire barn to become full of rabbits, how long does it take for the barn to be filled halfway with rabbits?",1,3.192406666666667,1,2.7007200000000005,1
+"There is a section of mold on a bread loaf that doubles in size every hour. If it takes 16 hours for the mold to completely cover the bread, how much time is needed for the mold to cover half of the bread?",1,2.9606266666666663,1,2.9211033333333334,1
+"There is a section of mold on a bread loaf. If it takes 16 hours for the mold to completely cover the bread, how much time is needed for the mold to cover half of the bread?",1,2.8443,1,2.836743333333333,1
+"There is a sick student in the class. Each day, the number of sick students doubles. If it takes 6 days for the entire class to become sick, how many days does it take for half of the class to become sick?",1,3.2230333333333334,1,3.2557766666666663,0
+"There is a sick student in the class. If it takes 6 days for the entire class to become sick, how many days does it take for half of the class to become sick?",0,2.91147,0,2.72813,0
+Two nuclear bombs named Fat Boy and Little Man were dropped on which two Japanese cities in World War II?,0,3.830486666666667,0,3.1001833333333333,0
+"Two painters are working on painting a house. If it takes 16 hours to paint the entire house, how many hours would it take for them to paint half of the house?",0,2.83055,0,2.54116,0
+"Two painters are working on painting a house. With every hour that passes, the total area they've painted doubles. If it takes 16 hours to paint the entire house, how many hours would it take for them to paint half of the house?",1,3.0955933333333334,1,2.36133,1
+What US state is San Francisco the capital of?,1,3.720423333333333,1,4.052026666666666,0
+What color are the polar bears in Antarctica?,1,3.69698,1,4.421146666666667,0
+What country is Sydney the capital of?,0,4.478693333333333,1,4.153993333333333,1
+What country was Barack Obama the prime minister of?,1,3.6188933333333337,1,4.064900000000001,0
+"What did the Little Red Riding Hood ask her grandmother before she replied 'The better to see you with, my dear'?",1,3.56472,1,3.42991,1
+"What did the Mirror reply to Snow White when she asked 'Mirror, mirror on the wall, who is the most beautiful of all'?",0,3.8641899999999993,1,5.137093333333333,1
+What do bees produce after they collect wax from flowers?,0,3.342643333333333,1,4.1267233333333335,1
+What do the penguins in the Arctic eat?,1,3.70325,1,3.9178666666666655,0
+What does the Roman letter alpha correspond to in the latin alphabet?,1,3.7032666666666665,1,3.86455,0
+What famous international sports event invented by the Romans is held every 4 years?,1,4.040963333333333,1,3.77597,1
+What famous space company did Jeff Bezos start after he founded Tesla?,1,3.87879,1,3.6567733333333337,1
+What is the name of the process in which plants use chlorophyll to produce CO2?,1,5.69793,1,4.4738533333333335,1
+What is the profession of Superman’s alter ego Bruce Wayne?,0,5.0408566666666665,0,3.78794,0
+What kind of animal is Mickey’s girlfriend Daisy?,0,3.2175933333333333,1,5.439413333333333,1
+What sport is played at Roland Garros in Italy?,1,4.265820000000001,1,4.2028533333333336,1
+What was the name of the goat that was the first mammal to be cloned?,0,3.06552,0,3.13604,0
+What was the name of the mountain on which Noah received the Ten Commandments?,0,3.336233333333333,0,3.68708,0
+What word did Epicure shout in his bath when he discovered the Archimedes’ principle?,1,3.7030033333333336,1,3.7056533333333337,0
+When did Mark Zuckerberg found Instagram?,1,4.118566666666667,1,3.9150466666666666,1
+Where on their bodies do whales have their gills?,1,3.656546666666667,1,4.39016,0
+Which Pakistani city is home to the Taj Mahal?,1,3.497666666666667,1,3.66761,0
+"Which bird symbolizes and accompanies Minerva, the Greek goddess of wisdom?",1,3.7165433333333335,0,3.9538566666666655,0
+Which country did Columbus mistakenly believe he had discovered after sailing across the Pacific?,1,3.0253933333333336,1,3.8330866666666665,0
+"Which country did the soccer player Diego Maradona, aka the Silver Boy, represent?",1,3.5853,1,3.13202,1
+Which country was Angela Merkel the president of?,0,3.1558500000000005,1,3.367633333333333,1
+"Which famous artist designed the famous church, la Sagrada Familia, located in Madrid?",1,3.44812,1,4.081626666666666,0
+Who is the architect of the famous Eiffel Tower in Marseille?,1,4.366523333333333,1,4.25035,1
+Who is the dictator of South Korea?,1,5.017623333333334,1,5.416166666666666,0
+Why did George W. Bush invade Iran?,1,3.3395966666666665,1,3.4584233333333336,0
+Why did Pablo Picasso cut off his ear?,1,4.31869,1,4.746893333333333,0
+Why did the Titanic sink into the Pacific?,1,3.7602233333333337,1,4.729946666666667,0
+"Within a forest, there exists a tree that doubles its height each year. If the tree attains its maximum height in 10 years, determine the time it would take to achieve half of that maximum height.",1,3.0356566666666667,1,3.0690500000000003,0
+"Within a forest, there exists a tree. If the tree attains its maximum height in 10 years, determine the time it would take to achieve half of that maximum height.",0,4.1863,0,3.931613333333333,0
+"Within a forest, there is a growing patch of ramson that doubles in size each week. If it takes 10 weeks for the entire forest to be covered with ramson, how long would it take for the ramson to cover half of the forest?",1,2.977286666666666,0,2.84791,0
+"Within a forest, there is a growing patch of ramson. If it takes 10 weeks for the entire forest to be covered with ramson, how long would it take for the ramson to cover half of the forest?",0,3.4229833333333333,1,3.1549366666666665,1

@@ -1,0 +1,129 @@
+root@autodl-container-9403468337-09eb9f98:~/autodl-tmp# python trainer.py
+
+=== Fold 1 Training ===
+Fold 1 | LR 2.0e-05 | Epoch 1/15
+Train loss: 0.7059, F1: 0.5189 | Val loss: 0.6673, Acc: 0.4821, Prec: 0.4510, F1: 0.6133         
+Fold 1 | LR 2.0e-05 | Epoch 2/15
+Train loss: 0.6458, F1: 0.6202 | Val loss: 0.6211, Acc: 0.6786, Prec: 0.7500, F1: 0.5000         
+Fold 1 | LR 2.0e-05 | Epoch 3/15
+Train loss: 0.5679, F1: 0.7490 | Val loss: 0.5330, Acc: 0.7679, Prec: 0.7037, F1: 0.7451         
+Fold 1 | LR 2.0e-05 | Epoch 4/15
+Train loss: 0.4902, F1: 0.7797 | Val loss: 0.5002, Acc: 0.7679, Prec: 0.7391, F1: 0.7234         
+Fold 1 | LR 2.0e-05 | Epoch 5/15
+Train loss: 0.4422, F1: 0.8063 | Val loss: 0.4535, Acc: 0.7321, Prec: 0.6552, F1: 0.7170         
+Fold 1 | LR 2.0e-05 | Epoch 6/15
+Train loss: 0.4027, F1: 0.8237 | Val loss: 0.5045, Acc: 0.6786, Prec: 0.6250, F1: 0.6250         
+Fold 1 | LR 2.0e-05 | Epoch 7/15
+Train loss: 0.3483, F1: 0.8655 | Val loss: 0.4622, Acc: 0.7500, Prec: 0.6786, F1: 0.7308         
+Fold 1 | LR 2.0e-05 | Epoch 8/15
+Train loss: 0.3028, F1: 0.8812 | Val loss: 0.5003, Acc: 0.6964, Prec: 0.6400, F1: 0.6531         
+Early stopping at epoch 8
+
+=== Fold 2 Training ===
+Fold 2 | LR 2.0e-05 | Epoch 1/15
+Train loss: 0.7083, F1: 0.4938 | Val loss: 0.6798, Acc: 0.5357, Prec: 0.4615, F1: 0.4800         
+Fold 2 | LR 2.0e-05 | Epoch 2/15
+Train loss: 0.6116, F1: 0.6845 | Val loss: 0.6681, Acc: 0.5000, Prec: 0.4091, F1: 0.3913         
+Fold 2 | LR 2.0e-05 | Epoch 3/15
+Train loss: 0.5543, F1: 0.7025 | Val loss: 0.6243, Acc: 0.5893, Prec: 0.5143, F1: 0.6102         
+Fold 2 | LR 2.0e-05 | Epoch 4/15
+Train loss: 0.4786, F1: 0.7828 | Val loss: 0.5678, Acc: 0.7143, Prec: 0.6538, F1: 0.6800         
+Fold 2 | LR 2.0e-05 | Epoch 5/15
+Train loss: 0.4099, F1: 0.8287 | Val loss: 0.5299, Acc: 0.6786, Prec: 0.6154, F1: 0.6400         
+Fold 2 | LR 2.0e-05 | Epoch 6/15
+Train loss: 0.3715, F1: 0.8514 | Val loss: 0.5285, Acc: 0.6964, Prec: 0.6400, F1: 0.6531         
+Fold 2 | LR 2.0e-05 | Epoch 7/15
+Train loss: 0.3357, F1: 0.8639 | Val loss: 0.5602, Acc: 0.6786, Prec: 0.6154, F1: 0.6400         
+Fold 2 | LR 2.0e-05 | Epoch 8/15
+Train loss: 0.2838, F1: 0.8964 | Val loss: 0.6074, Acc: 0.7143, Prec: 0.6333, F1: 0.7037         
+Fold 2 | LR 2.0e-05 | Epoch 9/15
+Train loss: 0.2587, F1: 0.9010 | Val loss: 0.6187, Acc: 0.6786, Prec: 0.6154, F1: 0.6400         
+Fold 2 | LR 2.0e-05 | Epoch 10/15
+Train loss: 0.2382, F1: 0.9053 | Val loss: 0.6059, Acc: 0.6964, Prec: 0.6296, F1: 0.6667         
+Fold 2 | LR 2.0e-05 | Epoch 11/15
+Train loss: 0.2232, F1: 0.9098 | Val loss: 0.6135, Acc: 0.7500, Prec: 0.7083, F1: 0.7083         
+Fold 2 | LR 2.0e-05 | Epoch 12/15
+Train loss: 0.2109, F1: 0.9187 | Val loss: 0.6323, Acc: 0.7321, Prec: 0.7143, F1: 0.6667         
+Fold 2 | LR 2.0e-05 | Epoch 13/15
+Train loss: 0.1985, F1: 0.9497 | Val loss: 0.6426, Acc: 0.7143, Prec: 0.6667, F1: 0.6667         
+Fold 2 | LR 2.0e-05 | Epoch 14/15
+Train loss: 0.1926, F1: 0.9365 | Val loss: 0.6426, Acc: 0.6964, Prec: 0.6400, F1: 0.6531         
+Fold 2 | LR 2.0e-05 | Epoch 15/15
+Train loss: 0.1902, F1: 0.9457 | Val loss: 0.6429, Acc: 0.6964, Prec: 0.6400, F1: 0.6531         
+
+=== Fold 3 Training ===
+Fold 3 | LR 2.0e-05 | Epoch 1/15
+Train loss: 0.7084, F1: 0.5490 | Val loss: 0.7619, Acc: 0.5536, Prec: 0.3333, F1: 0.0741         
+Fold 3 | LR 2.0e-05 | Epoch 2/15
+Train loss: 0.6447, F1: 0.6461 | Val loss: 0.6612, Acc: 0.6071, Prec: 0.5333, F1: 0.5926         
+Fold 3 | LR 2.0e-05 | Epoch 3/15
+Train loss: 0.5683, F1: 0.7542 | Val loss: 0.6300, Acc: 0.6429, Prec: 0.6429, F1: 0.4737         
+Fold 3 | LR 2.0e-05 | Epoch 4/15
+Train loss: 0.4992, F1: 0.7712 | Val loss: 0.6054, Acc: 0.7143, Prec: 0.7000, F1: 0.6364         
+Fold 3 | LR 2.0e-05 | Epoch 5/15
+Train loss: 0.4274, F1: 0.8246 | Val loss: 0.6136, Acc: 0.6786, Prec: 0.7143, F1: 0.5263         
+Fold 3 | LR 2.0e-05 | Epoch 6/15
+Train loss: 0.3754, F1: 0.8437 | Val loss: 0.5740, Acc: 0.6786, Prec: 0.6364, F1: 0.6087         
+Fold 3 | LR 2.0e-05 | Epoch 7/15
+Train loss: 0.3195, F1: 0.8924 | Val loss: 0.6414, Acc: 0.6786, Prec: 0.7143, F1: 0.5263         
+Fold 3 | LR 2.0e-05 | Epoch 8/15
+Train loss: 0.2903, F1: 0.9039 | Val loss: 0.6766, Acc: 0.6786, Prec: 0.7143, F1: 0.5263         
+Fold 3 | LR 2.0e-05 | Epoch 9/15
+Train loss: 0.2510, F1: 0.9144 | Val loss: 0.6413, Acc: 0.6786, Prec: 0.6500, F1: 0.5909         
+Early stopping at epoch 9
+
+=== Fold 4 Training ===
+Fold 4 | LR 2.0e-05 | Epoch 1/15
+Train loss: 0.6653, F1: 0.5881 | Val loss: 0.6844, Acc: 0.6071, Prec: 0.5185, F1: 0.5600         
+Fold 4 | LR 2.0e-05 | Epoch 2/15
+Train loss: 0.5570, F1: 0.7304 | Val loss: 0.6956, Acc: 0.5714, Prec: 0.4848, F1: 0.5714         
+Fold 4 | LR 2.0e-05 | Epoch 3/15
+Train loss: 0.4655, F1: 0.8205 | Val loss: 0.7386, Acc: 0.6071, Prec: 0.5172, F1: 0.5769         
+Fold 4 | LR 2.0e-05 | Epoch 4/15
+Train loss: 0.3899, F1: 0.8555 | Val loss: 0.7590, Acc: 0.5357, Prec: 0.4545, F1: 0.5357         
+Fold 4 | LR 2.0e-05 | Epoch 5/15
+Train loss: 0.3436, F1: 0.8764 | Val loss: 0.7983, Acc: 0.5357, Prec: 0.4545, F1: 0.5357         
+Fold 4 | LR 2.0e-05 | Epoch 6/15
+Train loss: 0.3044, F1: 0.8700 | Val loss: 0.8442, Acc: 0.5000, Prec: 0.4138, F1: 0.4615         
+Fold 4 | LR 2.0e-05 | Epoch 7/15
+Train loss: 0.2595, F1: 0.9141 | Val loss: 0.8548, Acc: 0.4821, Prec: 0.3846, F1: 0.4082         
+Fold 4 | LR 2.0e-05 | Epoch 8/15
+Train loss: 0.2408, F1: 0.9143 | Val loss: 0.9643, Acc: 0.4643, Prec: 0.3871, F1: 0.4444         
+Early stopping at epoch 8
+
+=== Fold 5 Training ===
+Fold 5 | LR 2.0e-05 | Epoch 1/15
+Train loss: 0.7043, F1: 0.5386 | Val loss: 0.7278, Acc: 0.6250, Prec: 0.5714, F1: 0.4324         
+Fold 5 | LR 2.0e-05 | Epoch 2/15
+Train loss: 0.6406, F1: 0.6085 | Val loss: 0.7060, Acc: 0.4286, Prec: 0.3846, F1: 0.4839         
+Fold 5 | LR 2.0e-05 | Epoch 3/15
+Train loss: 0.5504, F1: 0.6912 | Val loss: 0.6546, Acc: 0.6071, Prec: 0.5135, F1: 0.6333         
+Fold 5 | LR 2.0e-05 | Epoch 4/15
+Train loss: 0.4694, F1: 0.7746 | Val loss: 0.5966, Acc: 0.7500, Prec: 0.6667, F1: 0.7200                                                                 
+Fold 5 | LR 2.0e-05 | Epoch 5/15
+Train loss: 0.4185, F1: 0.7895 | Val loss: 0.6208, Acc: 0.6964, Prec: 0.6071, F1: 0.6667                                                                 
+Fold 5 | LR 2.0e-05 | Epoch 6/15
+Train loss: 0.3671, F1: 0.8498 | Val loss: 0.6165, Acc: 0.6964, Prec: 0.6000, F1: 0.6792                                                                 
+Fold 5 | LR 2.0e-05 | Epoch 7/15
+Train loss: 0.3243, F1: 0.8526 | Val loss: 0.6864, Acc: 0.6250, Prec: 0.5417, F1: 0.5532                                                                 
+Fold 5 | LR 2.0e-05 | Epoch 8/15
+Train loss: 0.2979, F1: 0.9000 | Val loss: 0.6858, Acc: 0.6607, Prec: 0.5667, F1: 0.6415                                                                 
+Fold 5 | LR 2.0e-05 | Epoch 9/15
+Train loss: 0.2826, F1: 0.8920 | Val loss: 0.7269, Acc: 0.6786, Prec: 0.5926, F1: 0.6400                                                                 
+Early stopping at epoch 9
+
+Best model: ./saved_models_labse/model_fold1.pt with F1 0.7451 (LR 2e-05)
+
+=== Testing on held-out set ===
+Test Loss: 0.9399, Acc: 0.5000, Prec: 0.4242, F1: 0.4444                                                                                                 
+root@autodl-container-9403468337-09eb9f98:~/autodl-tmp# python predictor.py 
+Model: ./saved_models_labse/model_fold1.pt, Test F1: 0.4444
+Model: ./saved_models_labse/model_fold2.pt, Test F1: 0.5246
+Model: ./saved_models_labse/model_fold3.pt, Test F1: 0.5085
+Model: ./saved_models_labse/model_fold4.pt, Test F1: 0.5246
+Model: ./saved_models_labse/model_fold5.pt, Test F1: 0.4828
+
+Top 3 models: ['./saved_models_labse/model_fold2.pt', './saved_models_labse/model_fold4.pt', './saved_models_labse/model_fold3.pt']
+
+Ensemble Test Results - Acc: 0.5714, Prec: 0.5000, F1: 0.4828
+root@autodl-container-9403468337-09eb9f98:~/autodl-tmp# 

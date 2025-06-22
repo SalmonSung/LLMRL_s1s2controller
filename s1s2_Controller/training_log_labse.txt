@@ -1,0 +1,57 @@
+Fold 1, LR 2e-05, Epoch 1, TrL: 0.7059, TrF1: 0.5189, ValL: 0.6673, ValF1: 0.6133
+Fold 1, LR 2e-05, Epoch 2, TrL: 0.6458, TrF1: 0.6202, ValL: 0.6211, ValF1: 0.5000
+Fold 1, LR 2e-05, Epoch 3, TrL: 0.5679, TrF1: 0.7490, ValL: 0.5330, ValF1: 0.7451
+Fold 1, LR 2e-05, Epoch 4, TrL: 0.4902, TrF1: 0.7797, ValL: 0.5002, ValF1: 0.7234
+Fold 1, LR 2e-05, Epoch 5, TrL: 0.4422, TrF1: 0.8063, ValL: 0.4535, ValF1: 0.7170
+Fold 1, LR 2e-05, Epoch 6, TrL: 0.4027, TrF1: 0.8237, ValL: 0.5045, ValF1: 0.6250
+Fold 1, LR 2e-05, Epoch 7, TrL: 0.3483, TrF1: 0.8655, ValL: 0.4622, ValF1: 0.7308
+Fold 1, LR 2e-05, Epoch 8, TrL: 0.3028, TrF1: 0.8812, ValL: 0.5003, ValF1: 0.6531
+Fold 2, LR 2e-05, Epoch 1, TrL: 0.7083, TrF1: 0.4938, ValL: 0.6798, ValF1: 0.4800
+Fold 2, LR 2e-05, Epoch 2, TrL: 0.6116, TrF1: 0.6845, ValL: 0.6681, ValF1: 0.3913
+Fold 2, LR 2e-05, Epoch 3, TrL: 0.5543, TrF1: 0.7025, ValL: 0.6243, ValF1: 0.6102
+Fold 2, LR 2e-05, Epoch 4, TrL: 0.4786, TrF1: 0.7828, ValL: 0.5678, ValF1: 0.6800
+Fold 2, LR 2e-05, Epoch 5, TrL: 0.4099, TrF1: 0.8287, ValL: 0.5299, ValF1: 0.6400
+Fold 2, LR 2e-05, Epoch 6, TrL: 0.3715, TrF1: 0.8514, ValL: 0.5285, ValF1: 0.6531
+Fold 2, LR 2e-05, Epoch 7, TrL: 0.3357, TrF1: 0.8639, ValL: 0.5602, ValF1: 0.6400
+Fold 2, LR 2e-05, Epoch 8, TrL: 0.2838, TrF1: 0.8964, ValL: 0.6074, ValF1: 0.7037
+Fold 2, LR 2e-05, Epoch 9, TrL: 0.2587, TrF1: 0.9010, ValL: 0.6187, ValF1: 0.6400
+Fold 2, LR 2e-05, Epoch 10, TrL: 0.2382, TrF1: 0.9053, ValL: 0.6059, ValF1: 0.6667
+Fold 2, LR 2e-05, Epoch 11, TrL: 0.2232, TrF1: 0.9098, ValL: 0.6135, ValF1: 0.7083
+Fold 2, LR 2e-05, Epoch 12, TrL: 0.2109, TrF1: 0.9187, ValL: 0.6323, ValF1: 0.6667
+Fold 2, LR 2e-05, Epoch 13, TrL: 0.1985, TrF1: 0.9497, ValL: 0.6426, ValF1: 0.6667
+Fold 2, LR 2e-05, Epoch 14, TrL: 0.1926, TrF1: 0.9365, ValL: 0.6426, ValF1: 0.6531
+Fold 2, LR 2e-05, Epoch 15, TrL: 0.1902, TrF1: 0.9457, ValL: 0.6429, ValF1: 0.6531
+Fold 3, LR 2e-05, Epoch 1, TrL: 0.7084, TrF1: 0.5490, ValL: 0.7619, ValF1: 0.0741
+Fold 3, LR 2e-05, Epoch 2, TrL: 0.6447, TrF1: 0.6461, ValL: 0.6612, ValF1: 0.5926
+Fold 3, LR 2e-05, Epoch 3, TrL: 0.5683, TrF1: 0.7542, ValL: 0.6300, ValF1: 0.4737
+Fold 3, LR 2e-05, Epoch 4, TrL: 0.4992, TrF1: 0.7712, ValL: 0.6054, ValF1: 0.6364
+Fold 3, LR 2e-05, Epoch 5, TrL: 0.4274, TrF1: 0.8246, ValL: 0.6136, ValF1: 0.5263
+Fold 3, LR 2e-05, Epoch 6, TrL: 0.3754, TrF1: 0.8437, ValL: 0.5740, ValF1: 0.6087
+Fold 3, LR 2e-05, Epoch 7, TrL: 0.3195, TrF1: 0.8924, ValL: 0.6414, ValF1: 0.5263
+Fold 3, LR 2e-05, Epoch 8, TrL: 0.2903, TrF1: 0.9039, ValL: 0.6766, ValF1: 0.5263
+Fold 3, LR 2e-05, Epoch 9, TrL: 0.2510, TrF1: 0.9144, ValL: 0.6413, ValF1: 0.5909
+Fold 4, LR 2e-05, Epoch 1, TrL: 0.6653, TrF1: 0.5881, ValL: 0.6844, ValF1: 0.5600
+Fold 4, LR 2e-05, Epoch 2, TrL: 0.5570, TrF1: 0.7304, ValL: 0.6956, ValF1: 0.5714
+Fold 4, LR 2e-05, Epoch 3, TrL: 0.4655, TrF1: 0.8205, ValL: 0.7386, ValF1: 0.5769
+Fold 4, LR 2e-05, Epoch 4, TrL: 0.3899, TrF1: 0.8555, ValL: 0.7590, ValF1: 0.5357
+Fold 4, LR 2e-05, Epoch 5, TrL: 0.3436, TrF1: 0.8764, ValL: 0.7983, ValF1: 0.5357
+Fold 4, LR 2e-05, Epoch 6, TrL: 0.3044, TrF1: 0.8700, ValL: 0.8442, ValF1: 0.4615
+Fold 4, LR 2e-05, Epoch 7, TrL: 0.2595, TrF1: 0.9141, ValL: 0.8548, ValF1: 0.4082
+Fold 4, LR 2e-05, Epoch 8, TrL: 0.2408, TrF1: 0.9143, ValL: 0.9643, ValF1: 0.4444
+Fold 5, LR 2e-05, Epoch 1, TrL: 0.7043, TrF1: 0.5386, ValL: 0.7278, ValF1: 0.4324
+Fold 5, LR 2e-05, Epoch 2, TrL: 0.6406, TrF1: 0.6085, ValL: 0.7060, ValF1: 0.4839
+Fold 5, LR 2e-05, Epoch 3, TrL: 0.5504, TrF1: 0.6912, ValL: 0.6546, ValF1: 0.6333
+Fold 5, LR 2e-05, Epoch 4, TrL: 0.4694, TrF1: 0.7746, ValL: 0.5966, ValF1: 0.7200
+Fold 5, LR 2e-05, Epoch 5, TrL: 0.4185, TrF1: 0.7895, ValL: 0.6208, ValF1: 0.6667
+Fold 5, LR 2e-05, Epoch 6, TrL: 0.3671, TrF1: 0.8498, ValL: 0.6165, ValF1: 0.6792
+Fold 5, LR 2e-05, Epoch 7, TrL: 0.3243, TrF1: 0.8526, ValL: 0.6864, ValF1: 0.5532
+Fold 5, LR 2e-05, Epoch 8, TrL: 0.2979, TrF1: 0.9000, ValL: 0.6858, ValF1: 0.6415
+Fold 5, LR 2e-05, Epoch 9, TrL: 0.2826, TrF1: 0.8920, ValL: 0.7269, ValF1: 0.6400
+
+
+
+Model: ./saved_models_labse/model_fold1.pt, Test F1: 0.4444
+Model: ./saved_models_labse/model_fold2.pt, Test F1: 0.5246
+Model: ./saved_models_labse/model_fold3.pt, Test F1: 0.5085
+Model: ./saved_models_labse/model_fold4.pt, Test F1: 0.5246
+Model: ./saved_models_labse/model_fold5.pt, Test F1: 0.4828

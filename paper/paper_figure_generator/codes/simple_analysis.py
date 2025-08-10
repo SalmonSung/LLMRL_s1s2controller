@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 from pathlib import Path
 
-# 设置英文字体和样式，避免中文字体问题
 plt.rcParams['font.family'] = 'DejaVu Sans'
 plt.rcParams['axes.unicode_minus'] = False
 plt.style.use('default')

@@ -9,7 +9,7 @@ import torch
 from torch.utils.data import Dataset, DataLoader
 from transformers import AutoTokenizer, AutoModel
 import torch.nn as nn
-import argparse
+
 
 # 1. Set the global random seed for reproducibility
 def set_seed(seed: int = 42):
@@ -28,13 +28,8 @@ MODEL_NAME = 'sentence-transformers/LaBSE'
 BATCH_SIZE = 32
 DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 OUTPUT_DIR = './saved_models_labse'  # Directory containing trained model .pt files
-#DATA_FILE = 'data.csv'  # CSV file for data loading
+DATA_FILE = 'data.csv'  # CSV file for data loading
 
-parser = argparse.ArgumentParser()
-parser.add_argument("--data_path", type=str, default="data.csv")
-args = parser.parse_args()
-
-DATA_FILE = args.data_path
 
 
 
